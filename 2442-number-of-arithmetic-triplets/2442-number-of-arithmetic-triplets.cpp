@@ -18,7 +18,7 @@ public:
 };
 
 
-// BRUTEFORCE : 
+//BRUTEFORCE : 
 
 class Solution {
 public:
