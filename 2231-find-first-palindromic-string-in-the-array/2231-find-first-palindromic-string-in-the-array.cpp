@@ -3,7 +3,8 @@ public:
     string firstPalindrome(vector<string>& words) {
         for(string &word : words)
         {
-            if(word == string(rbegin(word),rend(word))) return word;
+            string r = string(rbegin(word),rend(word));
+            if(word == r) return word;
         }
         return "";
         
