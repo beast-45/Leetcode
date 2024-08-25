@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/beast-45/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1603-running-sum-of-1d-array](https://github.com/beast-45/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/beast-45/Leetcode/tree/master/1651-shuffle-string) |
+| [1833-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/beast-45/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/beast-45/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/beast-45/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/beast-45/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Bit Manipulation
 |  |
 | ------- |
