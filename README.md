@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/beast-45/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1205-defanging-an-ip-address](https://github.com/beast-45/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/beast-45/Leetcode/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/beast-45/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/beast-45/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
