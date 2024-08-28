@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/beast-45/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/beast-45/Leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/beast-45/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/beast-45/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/beast-45/Leetcode/tree/master/1651-shuffle-string) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/beast-45/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/beast-45/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/beast-45/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/beast-45/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Prefix Sum
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3226-minimum-number-game](https://github.com/beast-45/Leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
@@ -149,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/beast-45/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
