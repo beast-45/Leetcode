@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/beast-45/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/beast-45/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/beast-45/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/beast-45/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/beast-45/Leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/beast-45/Leetcode/tree/master/1677-matrix-diagonal-sum) |
