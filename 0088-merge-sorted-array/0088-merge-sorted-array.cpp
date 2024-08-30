@@ -1,14 +1,17 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int j=0; 
-        int i=m;
-        while(i<m+n)
+        vector<int> tmp;
+        for(int i=0 ; i<m ; i++)
         {
-            nums1[i]=nums2[j];
-            i++;
-            j++;
+            tmp.push_back(nums1[i]);
         }
-        sort(nums1.begin() , nums1.end());
+        for(int &num : nums2)
+        {
+            tmp.push_back(num);
+        }
+        sort(begin(tmp),end(tmp));
+        nums1 = tmp;
+        
     }
 };
