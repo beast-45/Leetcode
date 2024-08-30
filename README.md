@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/beast-45/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/beast-45/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/beast-45/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3221-find-the-peaks](https://github.com/beast-45/Leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/beast-45/Leetcode/tree/master/3226-minimum-number-game) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/beast-45/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/beast-45/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/beast-45/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3221-find-the-peaks](https://github.com/beast-45/Leetcode/tree/master/3221-find-the-peaks) |
 ## Counting
 |  |
 | ------- |
