@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/beast-45/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/beast-45/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/beast-45/Leetcode/tree/master/2159-two-out-of-three) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/beast-45/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/beast-45/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/beast-45/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/beast-45/Leetcode/tree/master/2502-sort-the-people) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/beast-45/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1252-break-a-palindrome](https://github.com/beast-45/Leetcode/tree/master/1252-break-a-palindrome) |
+| [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/beast-45/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Heap (Priority Queue)
