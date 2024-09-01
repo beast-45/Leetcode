@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/beast-45/Leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/beast-45/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/beast-45/Leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/beast-45/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/beast-45/Leetcode/tree/master/0412-fizz-buzz) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/beast-45/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/beast-45/Leetcode/tree/master/0412-fizz-buzz) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/beast-45/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2886-faulty-keyboard](https://github.com/beast-45/Leetcode/tree/master/2886-faulty-keyboard) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/beast-45/Leetcode/tree/master/0319-bulb-switcher) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/beast-45/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
