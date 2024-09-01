@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/beast-45/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/beast-45/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/beast-45/Leetcode/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/beast-45/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/beast-45/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/beast-45/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/beast-45/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/beast-45/Leetcode/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/beast-45/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/beast-45/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/beast-45/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
