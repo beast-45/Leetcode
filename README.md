@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/beast-45/Leetcode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/beast-45/Leetcode/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/beast-45/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/beast-45/Leetcode/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/beast-45/Leetcode/tree/master/1448-maximum-69-number) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/beast-45/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/beast-45/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
