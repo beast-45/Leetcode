@@ -10,17 +10,13 @@
  */
 class Solution {
 public:
-    int gcd(int &a , int &b)
+    int gcd(int a , int b)
     {
-        int small = min(a,b);
-        int div = 0;
-        int gdiv = 1;
-        for(int i=1 ; i<=small ; i++)
-        {
-            if(a%i == 0 && b%i==0) div = i;
-            gdiv = max(div , gdiv);
-        }
-        return gdiv;
+        if(a==0) return b;
+        if(b==0) return a;
+        if(a==b) return a;
+        if(a>b) return gcd(a-b , b);
+        return gcd(a , b-a);
     }
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         if(head == NULL || head->next == NULL) return head;
