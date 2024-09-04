@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/beast-45/Leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/beast-45/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/beast-45/Leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/beast-45/Leetcode/tree/master/1448-maximum-69-number) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/beast-45/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/beast-45/Leetcode/tree/master/0055-jump-game) |
+| [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -272,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/beast-45/Leetcode/tree/master/0948-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
