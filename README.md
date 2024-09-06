@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/beast-45/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/beast-45/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/beast-45/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/beast-45/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/beast-45/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Math
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/beast-45/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/beast-45/Leetcode/tree/master/2502-sort-the-people) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/beast-45/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/beast-45/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/beast-45/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/beast-45/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
 |  |
 | ------- |
