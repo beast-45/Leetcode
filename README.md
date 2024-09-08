@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/beast-45/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/beast-45/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/beast-45/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
