@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/beast-45/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1252-break-a-palindrome](https://github.com/beast-45/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/beast-45/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/beast-45/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1651-shuffle-string](https://github.com/beast-45/Leetcode/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/beast-45/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/beast-45/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/beast-45/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/beast-45/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/beast-45/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/beast-45/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/beast-45/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/beast-45/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/beast-45/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/beast-45/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/beast-45/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/beast-45/Leetcode/tree/master/2159-two-out-of-three) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/beast-45/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
