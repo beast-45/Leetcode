@@ -12,15 +12,12 @@
  */
 class Solution {
 public:
-    TreeNode* solve(vector<int> &preorder, vector<int> &inorder, int start,
-                    int end, int& idx) {
-        if (start > end)
-            return NULL;
+    TreeNode* solve(vector<int> &preorder, vector<int> &inorder, int start, int end, int& idx) {
+        if (start > end) return NULL;
         int rootVal = preorder[idx];
         int i = start;
         for (i=start ; i <= end; i++) {
-            if (inorder[i] == rootVal)
-                break;
+            if (inorder[i] == rootVal) break;
         }
         idx++;
 
