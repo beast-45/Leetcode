@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/beast-45/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/beast-45/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/beast-45/Leetcode/tree/master/0948-sort-an-array) |
+| [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0985-bag-of-tokens](https://github.com/beast-45/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/beast-45/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/beast-45/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/beast-45/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/beast-45/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/beast-45/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/beast-45/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/beast-45/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/beast-45/Leetcode/tree/master/0279-perfect-squares) |
+| [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/beast-45/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 ## Stack
