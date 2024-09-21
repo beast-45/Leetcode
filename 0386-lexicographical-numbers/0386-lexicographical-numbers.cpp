@@ -1,18 +1,25 @@
 class Solution {
 public:
-    vector<int> lexicalOrder(int n) {
-        auto lambda = [&](int &a , int &b)
+    void solve(int currNum , int n , vector<int>&result)
+    {
+        if(currNum > n)
         {
-            string n1 = to_string(a);
-            string n2 = to_string(b);
-            return n2 > n1 ;
-        };
-        vector<int> nums;
-        for(int i=1 ; i<=n ; i++)
-        {
-            nums.push_back(i);
+            return;
         }
-        sort(begin(nums) , end(nums) , lambda);
-        return nums;  
+        result.push_back(currNum);
+        for(int append=0 ; append<=9 ; append++)
+        {
+            int newNum = currNum*10 + append;
+            if(newNum > n) return ;
+            solve(newNum , n , result);
+        }
+    }
+    vector<int> lexicalOrder(int n) {
+        vector<int> result;
+        for(int startNum=1 ; startNum<=9 ; startNum++)
+        {
+            solve(startNum , n , result);
+        }
+        return result; 
     }
 };
