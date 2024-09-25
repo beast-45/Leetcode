@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/beast-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/beast-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Depth-First Search
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/beast-45/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/beast-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/beast-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/beast-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Backtracking
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/beast-45/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/beast-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/beast-45/Leetcode/tree/master/0279-perfect-squares) |
+| [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Rolling Hash
 |  |
 | ------- |
