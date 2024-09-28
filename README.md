@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/beast-45/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/beast-45/Leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/beast-45/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/beast-45/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/beast-45/Leetcode/tree/master/0948-sort-an-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/beast-45/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/beast-45/Leetcode/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/beast-45/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/beast-45/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/beast-45/Leetcode/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/beast-45/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/beast-45/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/beast-45/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -481,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/beast-45/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/beast-45/Leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
