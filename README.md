@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/beast-45/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/beast-45/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/beast-45/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/beast-45/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0729-my-calendar-i](https://github.com/beast-45/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/beast-45/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/beast-45/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/beast-45/Leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/beast-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/beast-45/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/beast-45/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/beast-45/Leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/beast-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/beast-45/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
