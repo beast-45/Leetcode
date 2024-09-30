@@ -20,7 +20,7 @@ public:
             return -1;
         }
 
-        int idx = st.size()-1; //top element index
+        int idx = st.size()-1; 
         
         if(idx > 0) {
             increments[idx-1] += increments[idx];
@@ -34,7 +34,6 @@ public:
     }
     
     void increment(int k, int val) {
-        //Note that input might contain K which is greater than st.size()
         int idx = min(k, (int)st.size()) - 1;
         if (idx >= 0) {
             increments[idx] += val;
