@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/beast-45/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/beast-45/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/beast-45/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/beast-45/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/beast-45/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/beast-45/Leetcode/tree/master/1651-shuffle-string) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0937-online-stock-span](https://github.com/beast-45/Leetcode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/beast-45/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/beast-45/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2470-removing-stars-from-a-string](https://github.com/beast-45/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/beast-45/Leetcode/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/beast-45/Leetcode/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/beast-45/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
