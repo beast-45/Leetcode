@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/beast-45/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/beast-45/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/beast-45/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/beast-45/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/beast-45/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/beast-45/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/beast-45/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/beast-45/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/beast-45/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/beast-45/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
 ## Bucket Sort
 |  |
 | ------- |
