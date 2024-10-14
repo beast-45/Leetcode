@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/beast-45/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/beast-45/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/beast-45/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/beast-45/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/beast-45/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/beast-45/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/beast-45/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/beast-45/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/beast-45/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/beast-45/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/beast-45/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/beast-45/Leetcode/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/beast-45/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/beast-45/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3226-minimum-number-game](https://github.com/beast-45/Leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
