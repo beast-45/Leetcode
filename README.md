@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/beast-45/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/beast-45/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/beast-45/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/beast-45/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/beast-45/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/beast-45/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/beast-45/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/beast-45/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3195-separate-black-and-white-balls](https://github.com/beast-45/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/beast-45/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/beast-45/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/beast-45/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/beast-45/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/beast-45/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3195-separate-black-and-white-balls](https://github.com/beast-45/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/beast-45/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
