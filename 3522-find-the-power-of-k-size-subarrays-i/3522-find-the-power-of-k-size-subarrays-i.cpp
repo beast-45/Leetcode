@@ -23,6 +23,6 @@ public:
             i++;
             j++;
         }
-        return result;;
+        return result;
     }
 };
