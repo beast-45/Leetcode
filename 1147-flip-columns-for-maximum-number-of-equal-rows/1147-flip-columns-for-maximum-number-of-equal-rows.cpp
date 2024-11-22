@@ -4,7 +4,7 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
 
-        int maxRows= 0;
+        int maxRow = 0;
         
         for(auto &currRow : matrix)
         {
