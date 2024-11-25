@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/beast-45/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/beast-45/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/beast-45/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/beast-45/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/beast-45/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/beast-45/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/beast-45/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/beast-45/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0787-sliding-puzzle](https://github.com/beast-45/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/beast-45/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/beast-45/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/beast-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/beast-45/Leetcode/tree/master/0279-perfect-squares) |
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0787-sliding-puzzle](https://github.com/beast-45/Leetcode/tree/master/0787-sliding-puzzle) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/beast-45/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Rolling Hash
