@@ -1,23 +1,26 @@
 class Solution {
 public:
     int findChampion(int n, vector<vector<int>>& edges) {
-        vector<int> indegree(n,0);
+        vector<int> power(n);
+        int countZ = 0;
         for(vector<int> &edge : edges)
         {
-            indegree[edge[1]] += 1;
+            int incoming = edge[1];
+            power[edge[1]] += 1;
         }
-
-        int champ = -1;
-        int count = 0;
         for(int i=0 ; i<n ; i++)
         {
-            if(indegree[i] == 0)
+            if(power[i]==0) countZ++;
+        }
+        int idxZ = 0;
+        if(countZ == 1)
+        {
+            for( ; idxZ<n ; idxZ++)
             {
-                champ = i;
-                count++;
-                if(count>1) return -1;
+                if(power[idxZ] == 0) break;
             }
         }
-        return champ;   
+        return countZ==1 ? idxZ : -1;
+        
     }
 };
