@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/beast-45/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/beast-45/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/beast-45/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/beast-45/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/beast-45/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/beast-45/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/beast-45/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/beast-45/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/beast-45/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/beast-45/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/beast-45/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/beast-45/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/beast-45/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
