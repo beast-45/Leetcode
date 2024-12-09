@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/beast-45/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/beast-45/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/beast-45/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3427-special-array-ii](https://github.com/beast-45/Leetcode/tree/master/3427-special-array-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/beast-45/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/beast-45/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/beast-45/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/beast-45/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/beast-45/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [3427-special-array-ii](https://github.com/beast-45/Leetcode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/beast-45/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/beast-45/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/beast-45/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/beast-45/Leetcode/tree/master/3427-special-array-ii) |
 ## Brainteaser
 |  |
 | ------- |
