@@ -18,14 +18,17 @@ public:
                 cumulativeSum[i] = cumulativeSum[i-1];
             }
         }
-        vector<bool> result;
+        vector<bool> result(m,false);
         int i = 0;
         for(vector<int> &query : queries)
         {
             int start = query[0];
             int end   = query[1];
 
-            cumulativeSum[end] - cumulativeSum[start] == 0 ? result.push_back(true) : result.push_back(false);
+            if(cumulativeSum[end] - cumulativeSum[start] == 0)
+            {
+                result[i] = true;
+            }
             i++;
         }
         return result;
