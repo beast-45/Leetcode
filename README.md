@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/beast-45/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/beast-45/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1917-maximum-average-pass-ratio](https://github.com/beast-45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/beast-45/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/beast-45/Leetcode/tree/master/1972-rotating-the-box) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/beast-45/Leetcode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/beast-45/Leetcode/tree/master/1448-maximum-69-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/beast-45/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/beast-45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/beast-45/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/beast-45/Leetcode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/beast-45/Leetcode/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/beast-45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/beast-45/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/beast-45/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/beast-45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
