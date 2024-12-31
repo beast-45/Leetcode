@@ -11,35 +11,35 @@
  */
 class Solution {
 public:
-    TreeNode*delHelper(TreeNode*root , unordered_set<int> st , vector<TreeNode*>&result)
+    TreeNode* forest(TreeNode* root , unordered_set<int> &st , vector<TreeNode*> &result)
     {
         if(root == NULL) return NULL;
 
-        root->left = delHelper(root->left , st , result);
-        root->right = delHelper(root->right , st , result);
+        root->left  = forest(root->left , st , result);
+        root->right = forest(root->right , st , result);
 
         if(st.find(root->val) != st.end())
         {
             if(root->left != NULL) result.push_back(root->left);
             if(root->right != NULL) result.push_back(root->right);
+
             return NULL;
         }
-        else 
-        {
-            return root;
-        }
+        else return root;
     }
+
     vector<TreeNode*> delNodes(TreeNode* root, vector<int>& to_delete) {
         vector<TreeNode*> result;
         unordered_set<int> st;
-
-        for(int &num : to_delete)
+        
+        for(int &del : to_delete)
         {
-            st.insert(num);
+            st.insert(del);
         }
 
-        delHelper(root , st , result);
-        if(st.find(root->val)==st.end()) result.push_back(root);
+        forest(root , st , result);
+        if(st.find(root->val) == st.end()) result.push_back(root);
+
         return result;
     }
 };
