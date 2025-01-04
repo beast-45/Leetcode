@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/beast-45/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/beast-45/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/beast-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/beast-45/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/beast-45/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/beast-45/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/beast-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/beast-45/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/beast-45/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2159-two-out-of-three](https://github.com/beast-45/Leetcode/tree/master/2159-two-out-of-three) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/beast-45/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/beast-45/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/beast-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/beast-45/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/beast-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/beast-45/Leetcode/tree/master/3427-special-array-ii) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/beast-45/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/beast-45/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/beast-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/beast-45/Leetcode/tree/master/2159-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/beast-45/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/beast-45/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
