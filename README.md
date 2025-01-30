@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/beast-45/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/beast-45/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/beast-45/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/beast-45/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/beast-45/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/beast-45/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/beast-45/Leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/beast-45/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/beast-45/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/beast-45/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/beast-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
