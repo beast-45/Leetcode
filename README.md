@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/beast-45/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/beast-45/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/beast-45/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/beast-45/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/beast-45/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/beast-45/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/beast-45/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/beast-45/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/beast-45/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/beast-45/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/beast-45/Leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/beast-45/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/beast-45/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/beast-45/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/beast-45/Leetcode/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/beast-45/Leetcode/tree/master/0432-all-oone-data-structure) |
