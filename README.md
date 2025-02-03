@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/beast-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/beast-45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/beast-45/Leetcode/tree/master/0832-binary-tree-pruning) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/beast-45/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/beast-45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/beast-45/Leetcode/tree/master/0832-binary-tree-pruning) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/beast-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/beast-45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/beast-45/Leetcode/tree/master/0832-binary-tree-pruning) |
