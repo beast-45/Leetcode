@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/beast-45/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/beast-45/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/beast-45/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2294-minimum-time-to-complete-trips](https://github.com/beast-45/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/beast-45/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/beast-45/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/beast-45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/beast-45/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/beast-45/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/beast-45/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2294-minimum-time-to-complete-trips](https://github.com/beast-45/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/beast-45/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/beast-45/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/beast-45/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
