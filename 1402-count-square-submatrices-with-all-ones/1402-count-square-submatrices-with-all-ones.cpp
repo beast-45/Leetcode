@@ -1,27 +1,34 @@
 class Solution {
 public:
-    int countSquares(vector<vector<int>>& matrix) {
-        if(matrix.size() == 0)
+    int solve(int i , int j , int m , int n , vector<vector<int>> &matrix , vector<vector<int>> &dp){
+        if(i>=m || j >= n){
             return 0;
+        }
+        if(dp[i][j] != -1){
+            return dp[i][j];
+        }
+        if(matrix[i][j] == 0){
+            return dp[i][j] = 0;
+        }
+        int right = solve(i , j+1 , m , n , matrix , dp);
+        int diagonal = solve(i+1 , j+1 , m , n , matrix , dp);
+        int down = solve(i+1 , j , m , n , matrix , dp);
+
+        return dp[i][j] = 1 + min({right , diagonal , down});
+    }
+    int countSquares(vector<vector<int>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
-        
-        vector<vector<int>> t(m, vector<int>(n, 0));
         int result = 0;
+        vector<vector<int>> dp(m , vector<int>(n,-1));
 
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                if(i == 0 || j == 0) {
-                    t[i][j] = matrix[i][j];
-                } else {
-                    if(matrix[i][j] == 1) {
-                        t[i][j] = 1 + min({t[i-1][j], t[i][j-1], t[i-1][j-1]});
-                    }
+        for(int i=0 ; i<m ; i++){
+            for(int j=0 ; j<n ; j++){
+                if(matrix[i][j] == 1){
+                    result += solve(i , j , m , n , matrix , dp);
                 }
-                result += t[i][j];
             }
         }
-        
         return result;
     }
 };
