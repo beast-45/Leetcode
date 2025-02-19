@@ -5,7 +5,7 @@ public:
             happyStrings.push_back(temp);
             return;
         }
-        for(int i=0 ; i<letters.size() ; i++){
+        for(int i=0 ; i<3 ; i++){
             if(!temp.empty() && temp.back() == letters[i]){
                 continue;
             }
