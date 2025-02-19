@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/beast-45/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/beast-45/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/beast-45/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/beast-45/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/beast-45/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/beast-45/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/beast-45/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/beast-45/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/beast-45/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/beast-45/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/beast-45/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/beast-45/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1252-break-a-palindrome](https://github.com/beast-45/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/beast-45/Leetcode/tree/master/1304-longest-happy-string) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/beast-45/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/beast-45/Leetcode/tree/master/1448-maximum-69-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/beast-45/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/beast-45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
