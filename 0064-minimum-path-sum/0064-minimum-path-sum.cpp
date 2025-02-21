@@ -1,24 +1,21 @@
 class Solution {
 public:
-    int t[201][201];
-    int solve(vector<vector<int>>& grid, int i, int j, int m, int n) {
-        if (i == m - 1 && j == n - 1)
+    int dp[201][201];
+    int solve(int i , int j , int m , int n , vector<vector<int>> &grid){
+        if(i == m-1 && j == n-1){
             return grid[i][j];
-        if (t[i][j] != -1)
-            return t[i][j];
-        if (i == m - 1)
-            return t[i][j] = grid[i][j] + solve(grid, i, j + 1, m, n);
-        else if (j == n - 1)
-            return t[i][j] = grid[i][j] + solve(grid, i + 1, j, m, n);
-        else
-            return t[i][j] = grid[i][j] + min(solve(grid, i + 1, j, m, n),
-                                              solve(grid, i, j + 1, m, n));
+        }
+        if(dp[i][j] != -1){
+            return dp[i][j];
+        }
+        int moveRight = (j+1 < n) ? grid[i][j] + solve(i , j+1 , m , n , grid) : INT_MAX;
+        int moveDown  = (i+1 < m) ? grid[i][j] + solve(i+1 , j , m , n , grid) : INT_MAX; 
+        return dp[i][j] = min(moveRight , moveDown);
     }
     int minPathSum(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        memset(t, -1, sizeof(t));
-
-        return solve(grid, 0, 0, m, n);
+        memset(dp,-1,sizeof(dp));
+        return solve(0 , 0 , m , n , grid); 
     }
 };
