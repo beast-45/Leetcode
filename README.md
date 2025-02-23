@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/beast-45/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/beast-45/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/beast-45/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/beast-45/Leetcode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0985-bag-of-tokens](https://github.com/beast-45/Leetcode/tree/master/0985-bag-of-tokens) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/beast-45/Leetcode/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/beast-45/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/beast-45/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/beast-45/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1129-longest-string-chain](https://github.com/beast-45/Leetcode/tree/master/1129-longest-string-chain) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/beast-45/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/beast-45/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/beast-45/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/beast-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/beast-45/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/beast-45/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -903,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/beast-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/beast-45/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/beast-45/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
