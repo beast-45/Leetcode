@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/beast-45/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/beast-45/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1894-merge-strings-alternately](https://github.com/beast-45/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/beast-45/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/beast-45/Leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beast-45/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/beast-45/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/beast-45/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/beast-45/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/beast-45/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/beast-45/Leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
