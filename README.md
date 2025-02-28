@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/beast-45/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/beast-45/Leetcode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/beast-45/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/beast-45/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/beast-45/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/beast-45/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/beast-45/Leetcode/tree/master/1252-break-a-palindrome) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/beast-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1105-uncrossed-lines](https://github.com/beast-45/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/beast-45/Leetcode/tree/master/1129-longest-string-chain) |
+| [1170-shortest-common-supersequence](https://github.com/beast-45/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/beast-45/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/beast-45/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/beast-45/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
