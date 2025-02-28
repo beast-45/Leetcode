@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/beast-45/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1428-jump-game-iii](https://github.com/beast-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/beast-45/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1447-jump-game-iv](https://github.com/beast-45/Leetcode/tree/master/1447-jump-game-iv) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/beast-45/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/beast-45/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/beast-45/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1447-jump-game-iv](https://github.com/beast-45/Leetcode/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/beast-45/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/beast-45/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/beast-45/Leetcode/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/beast-45/Leetcode/tree/master/1447-jump-game-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/beast-45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/beast-45/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
