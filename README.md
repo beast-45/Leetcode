@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/beast-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1032-satisfiability-of-equality-equations](https://github.com/beast-45/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1063-best-sightseeing-pair](https://github.com/beast-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1105-uncrossed-lines](https://github.com/beast-45/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1127-last-stone-weight](https://github.com/beast-45/Leetcode/tree/master/1127-last-stone-weight) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/beast-45/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/beast-45/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/beast-45/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1032-satisfiability-of-equality-equations](https://github.com/beast-45/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/beast-45/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/beast-45/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/beast-45/Leetcode/tree/master/1129-longest-string-chain) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/beast-45/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/beast-45/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/beast-45/Leetcode/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/beast-45/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [2201-valid-arrangement-of-pairs](https://github.com/beast-45/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/beast-45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/beast-45/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/beast-45/Leetcode/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/beast-45/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1032-satisfiability-of-equality-equations](https://github.com/beast-45/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 ## Bitmask
 |  |
 | ------- |
