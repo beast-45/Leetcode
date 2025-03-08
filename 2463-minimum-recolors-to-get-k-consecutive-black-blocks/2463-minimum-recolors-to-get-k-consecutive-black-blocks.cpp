@@ -10,15 +10,11 @@ public:
         while (j < n) {
             if (blocks[j] == 'W') {
                 wb++;
-            } else {
-                bb++;
-            }
+            } 
             if (j - i + 1 == k) {
                 minwb = min(wb, minwb);
                 if (blocks[i] == 'W') {
                     wb--;
-                } else {
-                    bb--;
                 }
                 i++;
             }
