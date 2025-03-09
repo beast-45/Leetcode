@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/beast-45/Leetcode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/beast-45/Leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/beast-45/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/beast-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1241-decompress-run-length-encoded-list](https://github.com/beast-45/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/beast-45/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/beast-45/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/beast-45/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/beast-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/beast-45/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/beast-45/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/beast-45/Leetcode/tree/master/1972-rotating-the-box) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/beast-45/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/beast-45/Leetcode/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/beast-45/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/beast-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/beast-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/beast-45/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
