@@ -1,23 +1,50 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>> &isConnected , int u , vector<bool> &vis){
-        vis[u] = true;
-        for(int v=0 ; v<isConnected.size() ; v++){
-            if(!vis[v] && isConnected[u][v] == 1){
-                dfs(isConnected , v , vis);
-            }
+    int find(int x , vector<int> &parent){
+        if(x == parent[x]){
+            return x;
+        }
+        return parent[x] = find(parent[x],parent);
+    }
+    void unionf(int x , int y , vector<int> &parent , vector<int> &rank){
+        int xp = find(x,parent);
+        int yp = find(y,parent);
+
+        if(xp == yp){
+            return;
+        }
+        if(rank[xp] > rank[yp]){
+            parent[yp] = xp;
+        }
+        else if(rank[xp] < rank[yp]){
+            parent[xp] = yp;
+        }
+        else{
+            parent[xp] = yp;
+            rank[yp]++;
         }
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-        vector<bool> vis(n,false);
-        int count = 0;
-        for(int u=0 ; u<n ; u++){
-            if(!vis[u]){
-                dfs(isConnected , u , vis);
-                count += 1;
+        vector<int> rank(n,0);
+        vector<int> parent(n);
+        for(int i=0 ; i<n ; i++){
+            parent[i] = i;
+        }
+        int provinces = n;
+        for(int i=0 ; i<n ; i++){
+            for(int j=0 ; j<n ; j++){
+                if(isConnected[i][j] == 1){
+                    int ip = find(i,parent);
+                    int jp = find(j,parent);
+                    if(ip != jp){
+                        unionf(i,j,parent,rank);
+                        provinces--;
+                    }
+                }
             }
         }
-        return count;
+        return provinces;
+        
     }
 };
