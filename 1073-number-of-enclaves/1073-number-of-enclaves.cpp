@@ -1,14 +1,16 @@
 class Solution {
 public:
+    vector<vector<int>> directions{{1,0},{-1,0},{0,-1},{0,1}};
     void dfs(int i , int j , int m , int n , vector<vector<int>> &grid){
         if(i<0 || i>=m || j<0 || j>=n || grid[i][j] == 0){
             return;
         }
         grid[i][j] = 0;
-        dfs(i+1 , j , m , n , grid);
-        dfs(i-1 , j , m , n , grid);
-        dfs(i , j+1 , m , n , grid);
-        dfs(i , j-1 , m , n , grid);
+        for(vector<int> &direction : directions){
+            int ni = i + direction[0];
+            int nj = j + direction[1];
+            dfs(ni , nj , m , n , grid);
+        }
     }
     int numEnclaves(vector<vector<int>>& grid) {
         int m = grid.size();
