@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/beast-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/beast-45/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1036-rotting-oranges](https://github.com/beast-45/Leetcode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/beast-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/beast-45/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/beast-45/Leetcode/tree/master/1105-uncrossed-lines) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/beast-45/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/beast-45/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/beast-45/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/beast-45/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/beast-45/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/beast-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/beast-45/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/beast-45/Leetcode/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/beast-45/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/beast-45/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/beast-45/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/beast-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
