@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/beast-45/Leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2035-count-sub-islands](https://github.com/beast-45/Leetcode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/beast-45/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/beast-45/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/beast-45/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/beast-45/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1972-rotating-the-box](https://github.com/beast-45/Leetcode/tree/master/1972-rotating-the-box) |
+| [2035-count-sub-islands](https://github.com/beast-45/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/beast-45/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/beast-45/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/beast-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/beast-45/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/beast-45/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/beast-45/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/beast-45/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2206-detonate-the-maximum-bombs](https://github.com/beast-45/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1116,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/beast-45/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1447-jump-game-iv](https://github.com/beast-45/Leetcode/tree/master/1447-jump-game-iv) |
 | [1753-path-with-minimum-effort](https://github.com/beast-45/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/beast-45/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/beast-45/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/beast-45/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/beast-45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1245,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/beast-45/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/beast-45/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/beast-45/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/beast-45/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/beast-45/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/beast-45/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/beast-45/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
