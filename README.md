@@ -1035,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/beast-45/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/beast-45/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/beast-45/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/beast-45/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/beast-45/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Rolling Hash
 |  |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/beast-45/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/beast-45/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/beast-45/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/beast-45/Leetcode/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/beast-45/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/beast-45/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1269,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/beast-45/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/beast-45/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/beast-45/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/beast-45/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bitmask
 |  |
