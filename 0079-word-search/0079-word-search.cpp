@@ -1,39 +1,38 @@
 class Solution {
-public: 
-    bool search(vector<vector<char>> &board , int i , int j , int index , string &word , vector<vector<int>>&directions){
+public:
+    int m,n;
+    vector<vector<bool>> vis;
+    vector<vector<int>> directions{{1,0},{-1,0},{0,1},{0,-1}};
+    bool dfs(int i , int j , int index , string &word , vector<vector<char>> &board){
         if(index == word.length()){
             return true;
         }
-        if(i<0 || i>=board.size() || j<0 || j>=board[0].size() || board[i][j] == '$'){
+        if(i<0 || i>=m || j<0 || j>=n || board[i][j] != word[index] || vis[i][j]){
             return false;
         }
-        if(board[i][j] != word[index]){
-            return false;
-        }
-        char temp = board[i][j];
-        board[i][j] = '$';
-        for(auto &dir : directions){
-            int new_i = i + dir[0];
-            int new_j = j + dir[1];
-            if(search(board , new_i , new_j , index+1 , word , directions)){
+        vis[i][j] = true;
+        for(auto &direction : directions){
+            int ni = i + direction[0];
+            int nj = j + direction[1];
+            if(dfs(ni,nj,index+1,word,board)){
                 return true;
             }
         }
-        board[i][j] = temp;
+        vis[i][j] = false;
         return false;
     }
     bool exist(vector<vector<char>>& board, string word) {
-        int m = board.size();
-        int n = board[0].size();
-        vector<vector<int>> directions{{1,0},{-1,0},{0,1},{0,-1}};
-
-        for(int i=0; i<m ; i++){
+        m = board.size();
+        n = board[0].size();
+        vis.resize(m,vector<bool>(n,false));
+        for(int i=0 ; i<m ; i++){
             for(int j=0 ; j<n ; j++){
-                if(board[i][j] == word[0] && search(board , i , j , 0 , word , directions)){
-                    return true;
+                if(board[i][j] == word[0]){
+                    if(dfs(i,j,0,word,board)){
+                        return true;
+                    }
                 }
             }
-
         }
         return false;
     }
