@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/beast-45/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/beast-45/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/beast-45/Leetcode/tree/master/0792-binary-search) |
+| [0805-escape-the-ghosts](https://github.com/beast-45/Leetcode/tree/master/0805-escape-the-ghosts) |
 | [0854-making-a-large-island](https://github.com/beast-45/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/beast-45/Leetcode/tree/master/0859-design-circular-deque) |
 | [0876-hand-of-straights](https://github.com/beast-45/Leetcode/tree/master/0876-hand-of-straights) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/beast-45/Leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/beast-45/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/beast-45/Leetcode/tree/master/0670-maximum-swap) |
+| [0805-escape-the-ghosts](https://github.com/beast-45/Leetcode/tree/master/0805-escape-the-ghosts) |
 | [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/beast-45/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
