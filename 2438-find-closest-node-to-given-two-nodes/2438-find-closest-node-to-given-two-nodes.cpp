@@ -11,28 +11,26 @@ public:
     int closestMeetingNode(vector<int>& edges, int node1, int node2) {
         int n = edges.size();
 
-        vector<bool> vis1(n,false);
+        vector<bool> vis(n,false);
         vector<int> result1(n,INT_MAX);
         result1[node1] = 0;
+        dfs(edges,node1,result1,vis);
 
-        vector<bool> vis2(n,false);
+        fill(begin(vis),end(vis),false);
         vector<int> result2(n,INT_MAX);
         result2[node2] = 0;
+        dfs(edges,node2,result2,vis);
 
-        dfs(edges,node1,result1,vis1);
-        dfs(edges,node2,result2,vis2);
-
-        int minDistNode = -1;
-        int minDistanceTillNow = INT_MAX;
+        int node = -1;
+        int minDist = INT_MAX;
 
         for(int i=0 ; i<n ; i++){
-            int maxDistance = max(result1[i],result2[i]);
-            if(maxDistance < minDistanceTillNow){
-                minDistanceTillNow = maxDistance;
-                minDistNode = i;
+            int maxDist = max(result1[i],result2[i]);
+            if(maxDist < minDist){
+                minDist = maxDist;
+                node = i;
             }
         }
-        return minDistNode;
-        
+        return node;  
     }
 };
