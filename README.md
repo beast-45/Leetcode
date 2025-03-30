@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/beast-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/beast-45/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/beast-45/Leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/beast-45/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/beast-45/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/beast-45/Leetcode/tree/master/1129-longest-string-chain) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/beast-45/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/beast-45/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/beast-45/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/beast-45/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/beast-45/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/beast-45/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/beast-45/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0833-bus-routes](https://github.com/beast-45/Leetcode/tree/master/0833-bus-routes) |
 | [0876-hand-of-straights](https://github.com/beast-45/Leetcode/tree/master/0876-hand-of-straights) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/beast-45/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/beast-45/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/beast-45/Leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/beast-45/Leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/beast-45/Leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/beast-45/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/beast-45/Leetcode/tree/master/0985-bag-of-tokens) |
