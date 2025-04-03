@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/beast-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/beast-45/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/beast-45/Leetcode/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/beast-45/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/beast-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/beast-45/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/beast-45/Leetcode/tree/master/1105-uncrossed-lines) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/beast-45/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/beast-45/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/beast-45/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/beast-45/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/beast-45/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/beast-45/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
