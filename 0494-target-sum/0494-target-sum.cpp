@@ -1,28 +1,21 @@
 class Solution {
 public:
-    int n;
     int total;
-    int t[21][2001];
-    int solve(vector<int> &nums , int index , int sum , int target)
-    {
-        if(index == n)
-        {
-            if(sum == target) return 1;
-            else return 0;
+    int solve(int index , int sum , int target , int n , vector<int> &nums , vector<vector<int>> &dp){
+        if(index == n){
+            return sum == target ? 1 : 0;
         }
-
-        if(t[index][sum+total] != -1) return t[index][sum+total];
-
-        int plusSign  = solve(nums , index+1 , sum + nums[index] , target);
-        int minusSign = solve(nums , index+1 , sum - nums[index] , target);
-
-        return t[index][sum + total] = plusSign + minusSign;
-
+        if(dp[index][sum+total] != -1){
+            return dp[index][sum+total];
+        }
+        int add = solve(index+1,sum+nums[index],target,n,nums,dp);
+        int sub = solve(index+1,sum-nums[index],target,n,nums,dp);
+        return dp[index][sum+total] = add+sub;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        n = nums.size();
-        total = accumulate(begin(nums) , end(nums) , 0);
-        memset(t , -1 , sizeof(t));
-        return solve(nums , 0 , 0 , target);
+        int n = nums.size();
+        total = accumulate(begin(nums),end(nums),0);
+        vector<vector<int>> dp(n,vector<int>(2001,-1));
+        return solve(0,0,target,n,nums,dp); 
     }
 };
