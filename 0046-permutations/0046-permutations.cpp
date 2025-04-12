@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void permutations(vector<int> &nums , vector<int> &temp , vector<vector<int>> &result , unordered_set<int> &st){
+    void solve(vector<int> &temp , vector<vector<int>> &result , unordered_set<int> &st , vector<int> &nums){
         if(temp.size() == nums.size()){
             result.push_back(temp);
             return;
@@ -11,7 +11,7 @@ public:
             }
             temp.push_back(nums[i]);
             st.insert(nums[i]);
-            permutations(nums , temp , result , st);
+            solve(temp,result,st,nums);
             temp.pop_back();
             st.erase(nums[i]);
         }
@@ -20,7 +20,7 @@ public:
         vector<int> temp;
         vector<vector<int>> result;
         unordered_set<int> st;
-        permutations(nums , temp , result , st);
+        solve(temp,result,st,nums);
         return result;
     }
 };
