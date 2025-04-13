@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/beast-45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beast-45/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/beast-45/Leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/beast-45/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/beast-45/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/beast-45/Leetcode/tree/master/0091-decode-ways) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/beast-45/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/beast-45/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/beast-45/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/beast-45/Leetcode/tree/master/0062-unique-paths) |
@@ -1191,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beast-45/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/beast-45/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/beast-45/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/beast-45/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/beast-45/Leetcode/tree/master/0046-permutations) |
