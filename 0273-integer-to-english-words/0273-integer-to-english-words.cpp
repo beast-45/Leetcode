@@ -24,7 +24,6 @@ public:
         {18, "Eighteen"},
         {19, "Nineteen"}
     };
-
     unordered_map<int, string> below100 = {
         {2, "Twenty"},
         {3, "Thirty"},
@@ -43,7 +42,7 @@ public:
             return below20[n];
         }
         if(n < 100){
-            return below100[n / 10] + ((n % 10 != 0) ? (" " + below10[n % 10]) : "");
+            return below100[n/10] + ((n%10 != 0) ? (" " + below10[n%10]) : "");
         }
         if(n < 1000){
             return solve(n/100) + " Hundred" + ((n%100 != 0) ? " " + solve(n%100) : "");
