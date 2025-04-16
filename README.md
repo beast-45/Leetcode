@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/beast-45/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/beast-45/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/beast-45/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/beast-45/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/beast-45/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/beast-45/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/beast-45/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/beast-45/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/beast-45/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/beast-45/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/beast-45/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/beast-45/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/beast-45/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/beast-45/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/beast-45/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/beast-45/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/beast-45/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/beast-45/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
