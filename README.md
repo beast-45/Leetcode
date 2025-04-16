@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/beast-45/Leetcode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/beast-45/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/beast-45/Leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/beast-45/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/beast-45/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/beast-45/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/beast-45/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/beast-45/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/beast-45/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/beast-45/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/beast-45/Leetcode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/beast-45/Leetcode/tree/master/0661-image-smoother) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/beast-45/Leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/beast-45/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/beast-45/Leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/beast-45/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/beast-45/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/beast-45/Leetcode/tree/master/0392-is-subsequence) |
@@ -1082,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/beast-45/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/beast-45/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/beast-45/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -1142,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/beast-45/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/beast-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/beast-45/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/beast-45/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/beast-45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1276,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/beast-45/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/beast-45/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/beast-45/Leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0433-minimum-genetic-mutation](https://github.com/beast-45/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/beast-45/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/beast-45/Leetcode/tree/master/0542-01-matrix) |
@@ -1375,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/beast-45/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/beast-45/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/beast-45/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/beast-45/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/beast-45/Leetcode/tree/master/0744-network-delay-time) |
@@ -1484,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/beast-45/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/beast-45/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/beast-45/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/beast-45/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/beast-45/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
