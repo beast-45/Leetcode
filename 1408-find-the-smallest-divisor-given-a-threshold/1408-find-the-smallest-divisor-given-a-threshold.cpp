@@ -3,12 +3,7 @@ public:
     bool check(int div , int threshold , vector<int> nums){
         int sum = 0;
         for(int &num : nums){
-            if(num % div == 0){
-                sum += num/div;
-            }
-            else{
-                sum += num/div+1;
-            }
+            num % div == 0 ? sum+=num/div : sum+=num/div+1;
         }
         return sum <= threshold;
     }
