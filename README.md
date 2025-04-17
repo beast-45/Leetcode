@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/beast-45/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2505-number-of-good-paths](https://github.com/beast-45/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2530-minimize-maximum-of-array](https://github.com/beast-45/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/beast-45/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/beast-45/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/beast-45/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/beast-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/beast-45/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/beast-45/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2530-minimize-maximum-of-array](https://github.com/beast-45/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/beast-45/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/beast-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/beast-45/Leetcode/tree/master/3427-special-array-ii) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/beast-45/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/beast-45/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/beast-45/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2530-minimize-maximum-of-array](https://github.com/beast-45/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/beast-45/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/beast-45/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/beast-45/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/beast-45/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/beast-45/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2530-minimize-maximum-of-array](https://github.com/beast-45/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/beast-45/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/beast-45/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/beast-45/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -1002,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/beast-45/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/beast-45/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/beast-45/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2530-minimize-maximum-of-array](https://github.com/beast-45/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/beast-45/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/beast-45/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/beast-45/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
