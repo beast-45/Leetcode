@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/beast-45/Leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/beast-45/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/beast-45/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/beast-45/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/beast-45/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/beast-45/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/beast-45/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/beast-45/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/beast-45/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/beast-45/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/beast-45/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/beast-45/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/beast-45/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/beast-45/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1427,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/beast-45/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/beast-45/Leetcode/tree/master/3189-find-champion-ii) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/beast-45/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/beast-45/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/beast-45/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
@@ -1438,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/beast-45/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/beast-45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/beast-45/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
