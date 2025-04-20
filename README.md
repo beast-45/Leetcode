@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/beast-45/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/beast-45/Leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/beast-45/Leetcode/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/beast-45/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/beast-45/Leetcode/tree/master/0733-flood-fill) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/beast-45/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/beast-45/Leetcode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/beast-45/Leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/beast-45/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/beast-45/Leetcode/tree/master/0948-sort-an-array) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/beast-45/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/beast-45/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/beast-45/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/beast-45/Leetcode/tree/master/0812-rotate-string) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/beast-45/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/beast-45/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/beast-45/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/beast-45/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0833-bus-routes](https://github.com/beast-45/Leetcode/tree/master/0833-bus-routes) |
@@ -1180,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/beast-45/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/beast-45/Leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/beast-45/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/beast-45/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/beast-45/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/beast-45/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -1313,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/beast-45/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/beast-45/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/beast-45/Leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/beast-45/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/beast-45/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/beast-45/Leetcode/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/beast-45/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -1484,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/beast-45/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/beast-45/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/beast-45/Leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/beast-45/Leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/beast-45/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/beast-45/Leetcode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/beast-45/Leetcode/tree/master/0922-possible-bipartition) |
