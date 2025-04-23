@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/beast-45/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/beast-45/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/beast-45/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/beast-45/Leetcode/tree/master/1500-count-largest-group) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/beast-45/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/beast-45/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/beast-45/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/beast-45/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/beast-45/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/beast-45/Leetcode/tree/master/1500-count-largest-group) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/beast-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
