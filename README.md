@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/beast-45/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/beast-45/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/beast-45/Leetcode/tree/master/0972-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/beast-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/beast-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
