@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/beast-45/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/beast-45/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/beast-45/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/beast-45/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/beast-45/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/beast-45/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/beast-45/Leetcode/tree/master/0542-01-matrix) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/beast-45/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/beast-45/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/beast-45/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/beast-45/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/beast-45/Leetcode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/beast-45/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/beast-45/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/beast-45/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/beast-45/Leetcode/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/beast-45/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/beast-45/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
