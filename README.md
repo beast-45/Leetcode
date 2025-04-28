@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/beast-45/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/beast-45/Leetcode/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/beast-45/Leetcode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/beast-45/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/beast-45/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/beast-45/Leetcode/tree/master/0242-valid-anagram) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/beast-45/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/beast-45/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/beast-45/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/beast-45/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/beast-45/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/beast-45/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/beast-45/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/beast-45/Leetcode/tree/master/0859-design-circular-deque) |
@@ -1457,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/beast-45/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/beast-45/Leetcode/tree/master/0432-all-oone-data-structure) |
 ## Monotonic Queue
 |  |
