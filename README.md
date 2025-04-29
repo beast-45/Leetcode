@@ -1280,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/beast-45/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/beast-45/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/beast-45/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/beast-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/beast-45/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/beast-45/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/beast-45/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/beast-45/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/beast-45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/beast-45/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/beast-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/beast-45/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/beast-45/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/beast-45/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1504,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/beast-45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/beast-45/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/beast-45/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/beast-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2505-number-of-good-paths](https://github.com/beast-45/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/beast-45/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1597,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/beast-45/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/beast-45/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/beast-45/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2439-longest-cycle-in-a-graph](https://github.com/beast-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
