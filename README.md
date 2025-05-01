@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/beast-45/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/beast-45/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/beast-45/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/beast-45/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/beast-45/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/beast-45/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/beast-45/Leetcode/tree/master/0054-spiral-matrix) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/beast-45/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/beast-45/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/beast-45/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/beast-45/Leetcode/tree/master/0179-largest-number) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/beast-45/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beast-45/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/beast-45/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/beast-45/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/beast-45/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/beast-45/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/beast-45/Leetcode/tree/master/0091-decode-ways) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/beast-45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beast-45/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/beast-45/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/beast-45/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/beast-45/Leetcode/tree/master/0139-word-break) |
