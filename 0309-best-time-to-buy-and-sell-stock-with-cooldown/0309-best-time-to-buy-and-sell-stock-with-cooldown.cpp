@@ -1,21 +1,20 @@
 class Solution {
 public:
     int t[5001][2];
-    int maxP(vector<int>& prices, int day, int n, int buy) {
+    int maxP(vector<int>& prices, int day, int n, int canBuy) {
         if(day >= n) return 0;
         int profit = 0;
-        if(t[day][buy] != -1) return t[day][buy];
-        if(buy) {
-            int take      = maxP(prices, day+1, n, false) - prices[day];
-            int notTake   = maxP(prices, day+1, n, true);
-            profit = max({profit, take, notTake});
+        if(t[day][canBuy] != -1) return t[day][canBuy];
+        if(canBuy) {
+            int buy = maxP(prices, day+1, n, false) - prices[day];
+            int skip = maxP(prices, day+1, n, true);
+            profit = max(buy,skip);
         } else {
-            int sell      = maxP(prices, day+2, n, true) + prices[day];
-            int notSell   = maxP(prices, day+1, n, false);
-            profit = max({profit, sell, notSell}); 
+            int sell = maxP(prices, day+2, n, true) + prices[day];
+            int hold = maxP(prices, day+1, n, false);
+            profit = max(sell,hold); 
         }
-        
-        return t[day][buy] = profit;
+        return t[day][canBuy] = profit;
     }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
