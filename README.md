@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/beast-45/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/beast-45/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/beast-45/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/beast-45/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/beast-45/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/beast-45/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/beast-45/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/beast-45/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/beast-45/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/beast-45/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/beast-45/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/beast-45/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/beast-45/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/beast-45/Leetcode/tree/master/0338-counting-bits) |
