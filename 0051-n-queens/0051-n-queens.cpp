@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<string>> result;
-    bool check(vector<string> &board , int row , int col , int n){
+    bool check(int row , int col , int n , vector<string> &board){
         for(int r=row-1 ; r>=0 ; r--){
             if(board[r][col] == 'Q'){
                 return false;
@@ -9,36 +9,36 @@ public:
         }
         int c = col;
         for(int r=row-1 ; r>=0 ; r--){
-            c += 1;
-            if(c<n && board[r][c] == 'Q'){
+            c--;
+            if(c>=0 && board[r][c] == 'Q'){
                 return false;
             }
         }
         c = col;
         for(int r=row-1 ; r>=0 ; r--){
-            c -= 1;
-            if(c>=0 && board[r][c] == 'Q'){
+            c++;
+            if(c<n && board[r][c] == 'Q'){
                 return false;
             }
         }
         return true;
     }
-    void solve(vector<string> &board , int row , int n){
+    void solve(int row , int n , vector<string> &board){
         if(row >= n){
             result.push_back(board);
             return;
         }
         for(int col=0 ; col<n ; col++){
-            if(check(board,row,col,n)){
+            if(check(row,col,n,board)){
                 board[row][col] = 'Q';
-                solve(board,row+1,n);
+                solve(row+1,n,board);
                 board[row][col] = '.';
             }
         }
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<string> board(n,string(n,'.'));
-        solve(board,0,n);
+        solve(0,n,board);
         return result;
     }
 };
