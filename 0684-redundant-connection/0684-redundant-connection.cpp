@@ -1,43 +1,38 @@
-class Solution {
-public:
-    int find(int x, vector<int>& parent) {
-        if (x == parent[x]) {
-            return x;
-        }
-        return parent[x] = find(parent[x], parent);
-    }
-    void unionf(int x, int y, vector<int>& parent, vector<int>& rank) {
-        int xp = find(x, parent);
-        int yp = find(y, parent);
-
-        if (xp == yp) {
-            return;
-        }
-        if (rank[xp] > rank[yp]) {
-            parent[yp] = xp;
-        } else if (rank[xp] < rank[yp]) {
-            parent[xp] = yp;
-        } else {
-            parent[xp] = yp;
-            rank[yp] += 1;
-        }
-    }
-    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        int n = edges.size();
-        vector<int> parent(n+1);
-        vector<int> rank(n+1,0);
-        for(int i=1 ; i<n+1 ; i++){
+class DSU{
+    public:
+    vector<int> parent , rank;
+    DSU(int n){
+        rank.resize(n+1,0);
+        parent.resize(n+1);
+        for(int i=1 ; i<=n ; i++){
             parent[i] = i;
         }
+    }
+    int find(int x){
+        if(x == parent[x]) return x;
+        return parent[x] = find(parent[x]);
+    }
+    void unionByRank(int x , int y){
+        int xp = find(x) , yp = find(y);
+        if(xp == yp) return;
+        if(rank[xp] > rank[yp]) parent[yp] = xp;
+        else if(rank[xp] < rank[yp]) parent[xp] = yp;
+        else{
+            parent[xp] = yp;
+            rank[yp]++;
+        }
+    }
+};
+class Solution {
+public:
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        int n = edges.size();
+        DSU dsu(n);
         for(auto &edge : edges){
-            int u = edge[0];
-            int v = edge[1];
-
-            int up = find(u,parent);
-            int vp = find(v,parent);
-
+            int u = edge[0] , v = edge[1];
+            int up = dsu.find(u) , vp = dsu.find(v);
             if(up != vp){
-                unionf(u,v,parent,rank);
+                dsu.unionByRank(u,v);
             }
             else{
                 return {u,v};
