@@ -1,58 +1,51 @@
 class Solution {
 public:
-    vector<vector<int>> directions{{1,0},{-1,0},{0,-1},{0,1}};
-    int dfs(int i , int j , int id, int n , vector<vector<int>> &grid){
+    vector<pair<int,int>> directions{{1,0},{-1,0},{0,-1},{0,1}};
+    int dfs(int i , int j , int n , int id , vector<vector<int>> &grid){
         if(i<0 || i>=n || j<0 || j>=n || grid[i][j] != 1){
             return 0;
         }
         int area = 1;
         grid[i][j] = id;
-        for(vector<int> &direction : directions){
-            int ni = i + direction[0];
-            int nj = j + direction[1];
-            area += dfs(ni,nj,id,n,grid);
+        for(auto &[di,dj] : directions){
+            int ni = i + di;
+            int nj = j + dj;
+            area += dfs(ni,nj,n,id,grid);
         }
         return area;
     }
     int largestIsland(vector<vector<int>>& grid) {
-        int n = grid.size();
-        unordered_map<int,int> mp;
-        int id = 2;
+        int n = grid.size() , id = 2;
+        unordered_map<int,int> idToArea;
         for(int i=0 ; i<n ; i++){
             for(int j=0 ; j<n ; j++){
                 if(grid[i][j] == 1){
-                    int area = dfs(i,j,id,n,grid);
-                    mp[id] = area;
+                    int area = dfs(i,j,n,id,grid);
+                    idToArea[id] = area;
                     id++;
                 }
             }
         }
-        int largestIsland = 0;
-        bool zero = false;
+        int largest = 0 , zeroes = 0;
         for(int i=0 ; i<n ; i++){
-            for(int j = 0; j<n ; j++){
-                if(grid[i][j]==0){
-                    zero = true;
-                    unordered_set<int> alreadyAdded;
+            for(int j=0 ; j<n ; j++){
+                if(grid[i][j] == 0){
+                    zeroes += 1;
+                    unordered_set<int> alreadyConnected;
                     int area = 1;
-                    for(vector<int> &direction : directions){
-                        int ni = i + direction[0];
-                        int nj = j + direction[1];
+                    for(auto &[di,dj] : directions){
+                        int ni = i + di;
+                        int nj = j + dj;
                         if(ni>=0 && ni<n && nj>=0 && nj<n && grid[ni][nj] > 1){
                             int islandID = grid[ni][nj];
-                            if(alreadyAdded.find(islandID) == alreadyAdded.end()){
-                                area += mp[islandID];
-                                alreadyAdded.insert(islandID);
-                            }
+                            if(!alreadyConnected.count(islandID)) area += idToArea[islandID];
+                            alreadyConnected.insert(islandID);
                         }
                     }
-                    largestIsland = max(largestIsland,area);
+                    largest = max(largest,area);
                 }
             }
         }
-        if(!zero){
-            return n*n;
-        }
-        return largestIsland;
+        return zeroes == 0 ? n*n : largest;
     }
 };
