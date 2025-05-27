@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beast-45/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/beast-45/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/beast-45/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/beast-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/beast-45/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/beast-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/beast-45/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/beast-45/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/beast-45/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/beast-45/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/beast-45/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/beast-45/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/beast-45/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/beast-45/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/beast-45/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/beast-45/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1216,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/beast-45/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/beast-45/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
 | ------- |
@@ -1549,6 +1553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/beast-45/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/beast-45/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/beast-45/Leetcode/tree/master/1738-maximal-network-rank) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/beast-45/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/beast-45/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/beast-45/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/beast-45/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1652,6 +1657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/beast-45/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/beast-45/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/beast-45/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/beast-45/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/beast-45/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/beast-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
