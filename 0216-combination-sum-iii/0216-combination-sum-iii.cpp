@@ -1,16 +1,11 @@
 class Solution {
 public:
-    void solve(int num , int sum , vector<int> &temp , vector<vector<int>> &result , int k , int n){
-        if(temp.size() > k || sum > n){
-            return;
-        }
+    void solve(int num , int sum ,  vector<int> &temp , vector<vector<int>> &result, int k , int n){
         if(temp.size() == k && sum == n){
             result.push_back(temp);
             return;
         }
-        if(num > 9){
-            return;
-        }
+        if(num > 9 || sum > n || temp.size() > k) return;
         temp.push_back(num);
         solve(num+1,sum+num,temp,result,k,n);
         temp.pop_back();
