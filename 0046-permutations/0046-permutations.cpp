@@ -6,9 +6,7 @@ public:
             return;
         }
         for(int i=0 ; i<nums.size() ; i++){
-            if(st.find(nums[i]) != st.end()){
-                continue;
-            }
+            if(st.count(nums[i])) continue;
             temp.push_back(nums[i]);
             st.insert(nums[i]);
             solve(temp,result,st,nums);
