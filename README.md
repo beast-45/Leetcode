@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/beast-45/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/beast-45/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/beast-45/Leetcode/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/beast-45/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/beast-45/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/beast-45/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/beast-45/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/beast-45/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/beast-45/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/beast-45/Leetcode/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/beast-45/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/beast-45/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/beast-45/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
