@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/beast-45/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/beast-45/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/beast-45/Leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/beast-45/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/beast-45/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/beast-45/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/beast-45/Leetcode/tree/master/0140-word-break-ii) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/beast-45/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/beast-45/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/beast-45/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/beast-45/Leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/beast-45/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/beast-45/Leetcode/tree/master/0435-non-overlapping-intervals) |
