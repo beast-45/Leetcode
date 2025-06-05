@@ -48,9 +48,8 @@ public:
         }
         string result = "";
         for(int i=0 ; i<baseStr.size() ; i++){
-            result += char(find(baseStr[i]-'a',parent)+'a');
+            result += (find(baseStr[i]-'a',parent)+'a');
         }
         return result;
-
     }
 };
