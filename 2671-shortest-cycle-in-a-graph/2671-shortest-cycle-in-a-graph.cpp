@@ -1,12 +1,11 @@
 class Solution {
 public:
-    void bfs(int u , vector<vector<int>> &adj , int &sc){
-        int n = adj.size();
+    void bfs(int u , int n , int &sc ,vector<vector<int>> &adj){
         vector<int> count(n,0);
         vector<bool> vis(n,false);
         queue<pair<int,int>> q;
-        vis[u] = true;
         q.push({u,-1});
+        vis[u] = true;
         while(!q.empty()){
             auto [node,parent] = q.front();
             q.pop();
@@ -29,10 +28,10 @@ public:
             adj[edge[0]].push_back(edge[1]);
             adj[edge[1]].push_back(edge[0]);
         }
-        int shortestCycle = INT_MAX;
-        for(int start=0 ; start<n ; start++){
-            bfs(start,adj,shortestCycle);
+        int shortest = INT_MAX;
+        for(int i=0 ; i<n ; i++){
+            bfs(i,n,shortest,adj);
         }
-        return shortestCycle == INT_MAX ? -1 : shortestCycle;
+        return shortest == INT_MAX ? -1 : shortest;
     }
 };
