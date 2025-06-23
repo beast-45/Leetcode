@@ -9,7 +9,6 @@ public:
     void unionf(int x , int y , vector<int> &parent , vector<int> &rank){
         int xp = find(x,parent);
         int yp = find(y,parent);
-
         if(xp == yp){
             return;
         }
@@ -26,8 +25,7 @@ public:
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-        vector<int> rank(n,0);
-        vector<int> parent(n);
+        vector<int> rank(n,0) , parent(n);
         for(int i=0 ; i<n ; i++){
             parent[i] = i;
         }
