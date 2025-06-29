@@ -5,7 +5,7 @@ public:
 
     void buildTree(int i , int l , int r , vector<int> &nums){
         if(l == r){
-            segTree[i] = nums[r];
+            segTree[i] = nums[l];
             return;
         }
         int mid = l+(r-l)/2;
@@ -44,14 +44,17 @@ public:
     }
     
     void update(int index, int val) {
-        if(index > n){
-            return;
+        if(index >= 0 && index < n){
+            updateSegTree(index,val,0,0,n-1);
         }
-        updateSegTree(index,val,0,0,n-1);
     }
     
     int sumRange(int left, int right) {
-        return querySegTree(left,right,0,0,n-1);
+        if(left >= 0 && right < n){
+            return querySegTree(left,right,0,0,n-1);
+        }else{
+            return 0;
+        }
     }
 };
 
