@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/beast-45/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/beast-45/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/beast-45/Leetcode/tree/master/0648-replace-words) |
 | [0661-image-smoother](https://github.com/beast-45/Leetcode/tree/master/0661-image-smoother) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/beast-45/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/beast-45/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/beast-45/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/beast-45/Leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/beast-45/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/beast-45/Leetcode/tree/master/0768-partition-labels) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/beast-45/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/beast-45/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/beast-45/Leetcode/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/beast-45/Leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/beast-45/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/beast-45/Leetcode/tree/master/0768-partition-labels) |
@@ -1235,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/beast-45/Leetcode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/beast-45/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/beast-45/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0648-replace-words](https://github.com/beast-45/Leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/beast-45/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/beast-45/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/beast-45/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
