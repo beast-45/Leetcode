@@ -1,27 +1,34 @@
 class Solution {
 public:
+    int countDigits(int n){
+        int count = 0;
+        while(n){
+            count += 1;
+            n /= 10;
+        }
+        return count;
+    }
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        unordered_set<int> st;
-        for(int &val : arr1)
-        {
-            while(!st.count(val)  && val>0)
-            {
-                st.insert(val);
-                val /= 10;
-            }
-        }
-        int result = 0;
-        for(int &num : arr2)
-        {
-            while(!st.count(num) && num>0)
-            {
+        unordered_map<int,int> mp;
+        for(int &num : arr1){
+            mp[num] = countDigits(num);
+            while(num){
                 num /= 10;
-            }
-            if(num > 0)
-            {
-            result = max(result , static_cast<int>(log10(num))+1);
+                mp[num] = countDigits(num);
             }
         }
-        return result;
+        int maxLen = 0;
+        for(int &num : arr2){
+            if(mp.find(num) != mp.end()){
+                maxLen = max(maxLen,mp[num]);
+            }
+            while(num){
+                num /= 10;
+                if(mp.find(num) != mp.end()){
+                    maxLen = max(maxLen,mp[num]);
+                }
+            }
+        }
+        return maxLen;
     }
 };
