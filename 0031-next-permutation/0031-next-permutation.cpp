@@ -26,7 +26,7 @@ public:
                     break;
                 }
             }
-            swap(nums[swapIndex],nums[nextIndex]);
+            swap(nums[swapInde],nums[nextIndex]);
         }
         reverse(swapIndex+1,n-1,nums);
     }
