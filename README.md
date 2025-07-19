@@ -885,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/beast-45/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/beast-45/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/beast-45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1955-seat-reservation-manager](https://github.com/beast-45/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/beast-45/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/beast-45/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/beast-45/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -1120,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/beast-45/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1512-design-underground-system](https://github.com/beast-45/Leetcode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/beast-45/Leetcode/tree/master/1582-design-browser-history) |
+| [1955-seat-reservation-manager](https://github.com/beast-45/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/beast-45/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/beast-45/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Monotonic Stack
