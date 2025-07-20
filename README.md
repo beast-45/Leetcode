@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/beast-45/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/beast-45/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/beast-45/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3363-most-frequent-ids](https://github.com/beast-45/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/beast-45/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/beast-45/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/beast-45/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/beast-45/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/beast-45/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/beast-45/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3363-most-frequent-ids](https://github.com/beast-45/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/beast-45/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/beast-45/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/beast-45/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/beast-45/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3226-minimum-number-game](https://github.com/beast-45/Leetcode/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/beast-45/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3363-most-frequent-ids](https://github.com/beast-45/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/beast-45/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -1621,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/beast-45/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2429-design-a-food-rating-system](https://github.com/beast-45/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/beast-45/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3363-most-frequent-ids](https://github.com/beast-45/Leetcode/tree/master/3363-most-frequent-ids) |
 ## Queue
 |  |
 | ------- |
