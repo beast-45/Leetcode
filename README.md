@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/beast-45/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/beast-45/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/beast-45/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/beast-45/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/beast-45/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/beast-45/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/beast-45/Leetcode/tree/master/0053-maximum-subarray) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/beast-45/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/beast-45/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/beast-45/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/beast-45/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/beast-45/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/beast-45/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/beast-45/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/beast-45/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/beast-45/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/beast-45/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/beast-45/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/beast-45/Leetcode/tree/master/0063-unique-paths-ii) |
