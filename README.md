@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/beast-45/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/beast-45/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1813-maximum-erasure-value](https://github.com/beast-45/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/beast-45/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/beast-45/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beast-45/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/beast-45/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/beast-45/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/beast-45/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/beast-45/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/beast-45/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/beast-45/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/beast-45/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/beast-45/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/beast-45/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/beast-45/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
