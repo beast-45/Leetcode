@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/beast-45/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/beast-45/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/beast-45/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0911-profitable-schemes](https://github.com/beast-45/Leetcode/tree/master/0911-profitable-schemes) |
 | [0917-boats-to-save-people](https://github.com/beast-45/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/beast-45/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -1059,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/beast-45/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0875-longest-mountain-in-array](https://github.com/beast-45/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/beast-45/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0911-profitable-schemes](https://github.com/beast-45/Leetcode/tree/master/0911-profitable-schemes) |
 | [0967-minimum-falling-path-sum](https://github.com/beast-45/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/beast-45/Leetcode/tree/master/0972-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
