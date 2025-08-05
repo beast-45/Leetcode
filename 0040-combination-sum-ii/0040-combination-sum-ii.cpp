@@ -1,27 +1,24 @@
 class Solution {
 public:
-    void solve(int index , int sum , vector<int> &temp , vector<vector<int>> &result , vector<int> &nums , int target){
-        if(sum == target){
+    void solve(int index , int n , int target , vector<int> &nums , vector<int> &temp , vector<vector<int>> &result){
+        if(target == 0){
             result.push_back(temp);
             return;
         }
-        if(index >= nums.size() || sum > target){
-            return;
-        }
+        if(index >= n || target < 0) return;
         temp.push_back(nums[index]);
-        solve(index+1,sum+nums[index],temp,result,nums,target);
+        solve(index+1,n,target-nums[index],nums,temp,result);
         temp.pop_back();
-        int idx = index+1;
-        while(idx<nums.size() && nums[idx] == nums[index]){
-            idx++;
-        }
-        solve(idx,sum,temp,result,nums,target);
+        int i = index;
+        while(i<n && nums[index] == nums[i]) i++;
+        solve(i,n,target,nums,temp,result);
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        int n = candidates.size();
         vector<int> temp;
         vector<vector<int>> result;
         sort(begin(candidates),end(candidates));
-        solve(0,0,temp,result,candidates,target);
+        solve(0,n,target,candidates,temp,result);
         return result;
     }
 };
