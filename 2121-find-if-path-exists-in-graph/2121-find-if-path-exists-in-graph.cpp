@@ -30,13 +30,9 @@ public:
             parent[i] = i;
         }
         for(auto &edge : edges){
-            int u = edge[0];
-            int v = edge[1];
-            int up = find(u,parent);
-            int vp = find(v,parent);
-            if(up == vp){
-                continue;
-            }
+            int u = edge[0] , v = edge[1];
+            int up = find(u,parent) , vp = find(v,parent);
+            if(up == vp) continue;
             else{
                 unionf(u,v,parent,rank);
             }
