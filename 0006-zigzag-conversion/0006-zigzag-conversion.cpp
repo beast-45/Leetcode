@@ -19,7 +19,7 @@ public:
                     down = true;
                     j++;
                 }else{
-                    j--;
+                    j--
                 }
             }
         }
