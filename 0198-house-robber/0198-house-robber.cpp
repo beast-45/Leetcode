@@ -1,20 +1,15 @@
 class Solution {
 public:
-    int t[101];
-    int solve(vector<int> &nums , int i , int n)
-    {
+    int solve(vector<int> &nums , int i , int n , vector<int> &dp){
         if(i>=n) return 0;
-        if(t[i] != -1) return t[i];
-
-        int steal = nums[i] + solve(nums , i+2 , n);
-        int skip  = solve(nums , i+1 , n);
-
-        return t[i] = max(steal , skip);
+        if(dp[i] != -1) return dp[i];
+        int steal = nums[i] + solve(nums,i+2,n,dp);
+        int skip  = solve(nums,i+1,n,dp);
+        return dp[i] = max(steal,skip);
     }
     int rob(vector<int>& nums) {
         int n =  nums.size();
-        memset(t , -1 , sizeof(t));
-        return solve(nums,0,n);
-        
+        vector<int> dp(n,-1);
+        return solve(nums,0,n,dp); 
     }
 };
