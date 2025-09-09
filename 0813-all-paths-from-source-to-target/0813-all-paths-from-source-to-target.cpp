@@ -7,7 +7,7 @@ public:
         }
         for(int &v : graph[u]){
             path.push_back(v);
-            dfs(graph , v , destination , path , result);
+            dfs(graph,v,destination,path,result);
             path.pop_back();
         }
     }
@@ -16,7 +16,7 @@ public:
         vector<int> path;
         vector<vector<int>> result;
         path.push_back(0);
-        dfs(graph, 0 , n-1 , path , result);
+        dfs(graph,0,n-1,path,result);
         return result;
     }
 };
