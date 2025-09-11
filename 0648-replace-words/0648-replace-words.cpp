@@ -17,7 +17,7 @@ public:
     void insert(trieNode* root , string &word){
         trieNode* crawler = root;
         for(char &ch : word){
-            if(crawler->child[ch-'a'] == NULL){
+            if(!crawler->child[ch-'a']){
                 crawler->child[ch-'a'] = makeTrieNode();
             }
             crawler = crawler->child[ch-'a'];
@@ -30,7 +30,7 @@ public:
         int i;
         for(i=0 ; i<word.size() ; i++){
             char ch = word[i];
-            if(crawler->child[ch-'a'] == NULL) return "";
+            if(!crawler->child[ch-'a']) return "";
             else crawler = crawler->child[ch-'a'];
             if(crawler->wordEnd == true){
                 return crawler->word;
