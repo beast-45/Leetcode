@@ -7,21 +7,22 @@ public:
     };
     trieNode* root;
     trieNode* makeTrieNode(){
-        trieNode* newNode = new trieNode;
-        newNode->wordEnd = false;
-        newNode->word = "";
+        trieNode* nNode = new trieNode();
+        nNode->wordEnd = false;
+        nNode->word = "";
         for(int i=0 ; i<26 ; i++){
-            newNode->child[i] = NULL;
+            nNode->child[i] = nullptr;
         }
-        return newNode;
+        return nNode;
     }
-    Trie(){
+    Trie() {
         root = makeTrieNode();
     }
+    
     void insert(string word) {
         trieNode* crawler = root;
         for(char &ch : word){
-            if(crawler->child[ch-'a'] == NULL){
+            if(crawler->child[ch-'a'] == nullptr){
                 crawler->child[ch-'a'] = makeTrieNode();
             }
             crawler = crawler->child[ch-'a'];
@@ -33,19 +34,22 @@ public:
     bool search(string word) {
         trieNode* crawler = root;
         for(char &ch : word){
-            if(crawler->child[ch-'a'] == NULL) return false;
+            if(!crawler->child[ch-'a']) return false;
             else crawler = crawler->child[ch-'a'];
         }
-        if(crawler->wordEnd == true && crawler->word == word) return true;
+        if(crawler->wordEnd && crawler->word == word) return true;
         return false;
     }
     
     bool startsWith(string prefix) {
         trieNode* crawler = root;
-        int i;
-        for(i=0 ; i<prefix.length() ; i++){
-            if(crawler->child[prefix[i]-'a'] == NULL) return false;
-            else crawler = crawler->child[prefix[i]-'a'];
+        int i = 0;
+        for(char &ch : prefix){
+            if(!crawler->child[ch-'a']) return false;
+            else{
+                crawler = crawler->child[ch-'a'];
+                i++;
+            }
         }
         if(i == prefix.length()) return true;
         return false;
