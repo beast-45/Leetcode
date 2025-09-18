@@ -1,27 +1,21 @@
 class Solution {
 public:
-    int dp[10001][13]; 
-    int solve(vector<int> &coins, int amount, int idx) {
-        if (amount == 0){
+    int solve(int index , int n , int amount , vector<int> &nums , vector<vector<int>> &dp){
+        if(amount == 0){
             return 0;
         }
-        if (idx >= coins.size() || amount < 0){
-            return 1e6;
+        if(amount < 0 || index >= n) return 1e6;
+        if(dp[index][amount] != -1){
+            return dp[index][amount];
         }
-
-        if (dp[amount][idx] != -1){
-            return dp[amount][idx];
-        }
-
-        int take = 1 + solve(coins, amount - coins[idx], idx);
-        int skip = solve(coins, amount, idx + 1);
-
-        return dp[amount][idx] = min(take, skip);
+        int take = 1 + solve(index,n,amount-nums[index],nums,dp);
+        int skip = solve(index+1,n,amount,nums,dp);
+        return dp[index][amount] = min(take,skip);
     }
-
     int coinChange(vector<int>& coins, int amount) {
-        memset(dp, -1, sizeof(dp));
-        int minCoins = solve(coins, amount, 0);
-        return (minCoins >= 1e6) ? -1 : minCoins;
+        int n = coins.size();
+        vector<vector<int>> dp(n+1,vector<int>(amount+1,-1));
+        int minCoins = solve(0,n,amount,coins,dp);
+        return minCoins == 1e6 ? -1 : minCoins;
     }
 };
