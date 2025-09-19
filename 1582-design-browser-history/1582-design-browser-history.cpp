@@ -26,8 +26,7 @@ public:
             current++;
             steps--;
         }
-        return history[current];
-        
+        return history[current]; 
     }
 };
 
