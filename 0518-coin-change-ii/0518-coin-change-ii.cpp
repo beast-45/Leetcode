@@ -5,7 +5,9 @@ public:
             return 0;
         }
         if(amount == 0) return 1;
-        if(dp[index][amount] != -1) return dp[index][amount];
+        if(dp[index][amount] != -1){
+            return dp[index][amount];
+        }
         int take = solve(index,amount-coins[index],n,coins,dp);
         int skip = solve(index+1,amount,n,coins,dp);
         return dp[index][amount] = take + skip;
