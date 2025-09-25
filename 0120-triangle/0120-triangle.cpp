@@ -1,11 +1,13 @@
 class Solution {
 public:
-    int solve(int i , int j , int n , vector<vector<int>> &t , vector<vector<int>> &dp){
-        if(i == n) return 0;
-        if(dp[i][j] != -1){
-            return dp[i][j];
+    int solve(int index , int i , int n , vector<vector<int>> &t , vector<vector<int>> &dp){
+        if(index == n){
+            return 0;
         }
-        return dp[i][j] = t[i][j] + min(solve(i+1,j,n,t,dp),solve(i+1,j+1,n,t,dp));
+        if(dp[index][i] != -1){
+            return dp[index][i];
+        }
+        return dp[index][i] = t[index][i] + min(solve(index+1,i,n,t,dp),solve(index+1,i+1,n,t,dp)); 
     }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
