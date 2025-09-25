@@ -8,8 +8,7 @@ public:
         int area = 1;
         grid[i][j] = id;
         for(auto &[di,dj] : directions){
-            int ni = i + di;
-            int nj = j + dj;
+            int ni = i + di , nj = j + dj;
             area += dfs(ni,nj,n,id,grid);
         }
         return area;
@@ -34,8 +33,7 @@ public:
                     unordered_set<int> alreadyConnected;
                     int area = 1;
                     for(auto &[di,dj] : directions){
-                        int ni = i + di;
-                        int nj = j + dj;
+                        int ni = i + di , nj = j + dj;
                         if(ni>=0 && ni<n && nj>=0 && nj<n && grid[ni][nj] > 1){
                             int islandID = grid[ni][nj];
                             if(!alreadyConnected.count(islandID)) area += idToArea[islandID];
