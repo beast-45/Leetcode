@@ -1,45 +1,34 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        int time = 0;
-        int fresh = 0;
-        vector<vector<int>> directions{{1,0},{-1,0},{0,1},{0,-1}};
-        queue<pair<int,int>> q;
-        for(int i=0 ; i<m ; i++){
-            for(int j=0 ; j<n ; j++){
-                if(grid[i][j] == 2){
-                    q.push({i,j});
-                }
-                else if(grid[i][j] == 1){
-                    fresh++;
-                }
+        int m = grid.size(), n = grid[0].size(), fresh = 0;
+        queue<pair<int, int>> q;
+        vector<pair<int, int>> directions{{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
+        for (int i = 0; i < m; i++){
+            for (int j = 0; j < n; j++){
+                if (grid[i][j] == 2) q.push({i, j});
+                else if (grid[i][j] == 1) fresh += 1;
             }
         }
-        while(!q.empty()){
+        int time = 0;
+        while (!q.empty()){
             int s = q.size();
-            bool hit = false;
-            while(s--){
-                int i = q.front().first;
-                int j = q.front().second;
+            bool rot = false;
+            while (s--) {
+                auto [i,j] = q.front();
                 q.pop();
-                for(vector<int> &direction : directions){
-                    int ni = i + direction[0];
-                    int nj = j + direction[1];
-                    if(ni>=0 && ni<m && nj>=0 && nj<n && grid[ni][nj] == 1){
-                        q.push({ni,nj});
+                for (auto& [di, dj] : directions){
+                    int ni = i + di, nj = j + dj;
+                    if (ni >= 0 && ni < m && nj >= 0 && nj < n &&grid[ni][nj] == 1) {
+                        q.push({ni, nj});
                         grid[ni][nj] = 2;
-                        hit = true;
+                        rot = true;
                         fresh--;
                     }
                 }
             }
-            if(hit){
-                time += 1;
-            }
+            if(rot) time += 1;
         }
-        return fresh != 0 ? -1 : time;
-        
+        return fresh == 0 ? time : -1;
     }
 };
