@@ -3,8 +3,9 @@ public:
     vector<vector<int>> result;
     void twoSum(int i , int j , int target , vector<int> &nums){
         while(i<j){
-            if(nums[i] + nums[j] < target) i++;
-            else if(nums[i] + nums[j] > target) j--;
+            int sum = nums[i] + nums[j];
+            if(sum < target) i++;
+            else if(sum > target) j--;
             else{
                 while(i < j && nums[i] == nums[i+1]) i++;
                 while(i < j && nums[j] == nums[j-1]) j--;
