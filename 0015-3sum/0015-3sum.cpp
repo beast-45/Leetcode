@@ -1,7 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> result;
-    void twoSum(int i , int j , int target , vector<int> &nums){
+    void twoSum(int i , int j , int target , vector<int> &nums , vector<vector<int>> &result){
         while(i<j){
             int sum = nums[i] + nums[j];
             if(sum < target) i++;
@@ -17,13 +16,14 @@ public:
     }
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n = nums.size();
-        if(n < 3) return {};
+        vector<vector<int>> result;
+        if(n < 3) return result;
         sort(begin(nums),end(nums));
         for(int i=0 ; i<n ; i++){
             if(i > 0 && nums[i] == nums[i-1]) continue;
             int n1 = nums[i];
             int target = -n1;
-            twoSum(i+1,n-1,target,nums);
+            twoSum(i+1,n-1,target,nums,result);
         }
         return result;
     }
