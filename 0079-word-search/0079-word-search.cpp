@@ -1,12 +1,10 @@
 class Solution {
 public:
     int m,n;
-    vector<pair<int,int>> directions {{1,0},{-1,0},{0,-1},{0,1}};
+    vector<pair<int,int>> directions{{1,0},{-1,0},{0,-1},{0,1}};
     bool dfs(int i , int j , int index , string &word , vector<vector<char>> &board , vector<vector<bool>> &vis){
         if(index == word.length()) return true;
-        if(i<0 || i>=m || j<0 || j>=n || board[i][j] != word[index] || vis[i][j]){
-            return false;
-        }
+        if(i<0 || i>=m || j<0 || j>=n || board[i][j] != word[index] || vis[i][j]) return false;
         vis[i][j] = true;
         for(auto &[di,dj] : directions){
             int ni = i + di , nj = j + dj;
