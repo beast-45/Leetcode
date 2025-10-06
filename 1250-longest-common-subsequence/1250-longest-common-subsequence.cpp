@@ -1,20 +1,16 @@
 class Solution {
 public:
-    int t[1001][1001];
-    int solve(string &text1 , string &text2 , int i , int j , int m , int n)
-    {
-        if(i >= m || j >= n) return 0;
-        if(t[i][j] != -1) return t[i][j];
-        if(text1[i] == text2[j])
-        {
-            return t[i][j] = 1 + solve(text1 , text2 , i+1 , j+1 , m  , n);
+    int solve(int index1 , int index2 , int m , int n , string &t1 , string &t2 , vector<vector<int>> &dp){
+        if(index1 >= m || index2 >= n) return 0;
+        if(dp[index1][index2] != -1) return dp[index1][index2];
+        if(t1[index1] == t2[index2]){
+            return dp[index1][index2] = 1 + solve(index1+1,index2+1,m,n,t1,t2,dp);
         }
-        return t[i][j] = max(solve(text1 , text2 , i , j+1 , m , n) , solve(text1 , text2 , i+1 , j , m , n));
+        return dp[index1][index2] = max(solve(index1+1,index2,m,n,t1,t2,dp),solve(index1,index2+1,m,n,t1,t2,dp));
     }
     int longestCommonSubsequence(string text1, string text2) {
-        int m = text1.length();
-        int n = text2.length();
-        memset(t , -1 , sizeof(t));
-        return solve(text1 , text2 , 0 , 0 , m , n);
+        int m = text1.size() , n = text2.size();
+        vector<vector<int>> dp(m,vector<int>(n,-1));
+        return  solve(0,0,m,n,text1,text2,dp);
     }
 };
