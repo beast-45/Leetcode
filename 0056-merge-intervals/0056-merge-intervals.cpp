@@ -8,8 +8,7 @@ public:
         for(int i=1 ; i<n ; i++){
             if(intervals[i][0] <= result.back()[1]){
                 result.back()[1] = max(intervals[i][1],result.back()[1]);
-            }
-            else{
+            }else{
                 result.push_back(intervals[i]);
             }
         }
