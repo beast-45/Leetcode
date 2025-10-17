@@ -1,35 +1,26 @@
 class Solution {
 public:
+    typedef pair<int,int> P;
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
         vector<int> result(n+1,INT_MAX);
-        vector<vector<pair<int,int>>> adj(n+1);
-        priority_queue<pair<int,int> , vector<pair<int,int>> , greater<pair<int,int>>> pq;
+        vector<vector<P>> adj(n+1);
         for(auto &time : times){
-            int u = time[0];
-            int v = time[1];
-            int w = time[2];
-            adj[u].push_back({v,w});
+            adj[time[0]].push_back({time[1],time[2]});
         }
+        priority_queue<P,vector<P>,greater<P>> pq;
         result[k] = 0;
-        pq.push({0,k});   //{delay,node}
+        pq.push({0,k});
         while(!pq.empty()){
-            pair<int,int> u = pq.top();
+            auto [delay,node] = pq.top();
             pq.pop();
-            int delay = u.first;
-            int node  = u.second;
-            for(auto &v : adj[node]){
-                int vNode  = v.first;
-                int vDelay = v.second;
-                if(delay+vDelay < result[vNode]){
-                    result[vNode] = delay+vDelay;
-                    pq.push({result[vNode],vNode});
+            for(auto &[nNode,nDelay] : adj[node]){
+                if(delay + nDelay < result[nNode]){
+                    result[nNode] = delay + nDelay;
+                    pq.push({result[nNode],nNode});
                 }
             }
         }
-        int minDelay = 0;
-        for(int i=1 ; i<result.size() ; i++){
-            minDelay = max(minDelay,result[i]);
-        }
-        return minDelay == INT_MAX ? -1 : minDelay; 
+        int minDelay = *max_element(begin(result)+1,end(result));
+        return minDelay == INT_MAX ? -1 : minDelay;
     }
 };
