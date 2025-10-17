@@ -13,6 +13,7 @@ public:
         while(!pq.empty()){
             auto [delay,node] = pq.top();
             pq.pop();
+            if(delay > result[node]) continue;
             for(auto &[nNode,nDelay] : adj[node]){
                 if(delay + nDelay < result[nNode]){
                     result[nNode] = delay + nDelay;
