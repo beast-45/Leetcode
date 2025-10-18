@@ -1,13 +1,11 @@
 class Solution {
 public:
-    bool dfs(int u , int currColor , vector<int> &color , vector<vector<int>> &graph){
+    bool dfs(int u , int currColor , vector<vector<int>> &adj , vector<int> &color){
         color[u] = currColor;
-        for(int &v : graph[u]){
-            if(color[v] == color[u]) return false;
+        for(int &v : adj[u]){
+            if(color[v] == currColor) return false;
             if(color[v] == -1){
-                if(!dfs(v,1-currColor,color,graph)){
-                    return false;
-                }
+                if(!dfs(v,1-currColor,adj,color)) return false;
             }
         }
         return true;
@@ -17,9 +15,7 @@ public:
         vector<int> color(n,-1);
         for(int i=0 ; i<n ; i++){
             if(color[i] == -1){
-                if(!dfs(i,0,color,graph)){
-                    return false;
-                }
+                if(!dfs(i,0,graph,color)) return false;
             }
         }
         return true;
