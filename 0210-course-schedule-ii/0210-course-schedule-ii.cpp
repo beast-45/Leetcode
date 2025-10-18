@@ -33,7 +33,7 @@ public:
             adj[b].push_back(a);
             indegree[a]++;
         }
-        bfs(adj , indegree , result , n , count);
+        bfs(adj,indegree,result,n,count);
         return count != n ? vector<int>{} : result; 
     }
 };
