@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void kahnAlgo(int n , int &count , vector<int> &indegree , vector<int> &result , vector<vector<int>> &adj){
+    void bfs(unordered_map<int,vector<int>> &adj , vector<int> &indegree , vector<int> &result , int n , int &count){
         queue<int> q;
         for(int i=0 ; i<n ; i++){
             if(indegree[i] == 0){
@@ -12,7 +12,7 @@ public:
             int u = q.front();
             q.pop();
             result.push_back(u);
-            for(auto &v : adj[u]){
+            for(int &v : adj[u]){
                 indegree[v]--;
                 if(indegree[v] == 0){
                     q.push(v);
@@ -23,14 +23,17 @@ public:
     }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         int n = numCourses;
-        vector<int> indegree(n) , result;
-        vector<vector<int>> adj(n);
-        for(auto &pre : prerequisites){
-            adj[pre[1]].push_back(pre[0]);
-            indegree[pre[0]]++;
-        }
+        unordered_map<int,vector<int>> adj;
+        vector<int> result;
+        vector<int> indegree(n,0);
         int count = 0;
-        kahnAlgo(n,count,indegree,result,adj);
-        return count == n ? result : vector<int>{};
+        for(auto &pre : prerequisites){
+            int a = pre[0];
+            int b = pre[1];
+            adj[b].push_back(a);
+            indegree[a]++;
+        }
+        bfs(adj , indegree , result , n , count);
+        return count != n ? vector<int>{} : result; 
     }
 };
