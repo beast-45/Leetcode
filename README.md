@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beast-45/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beast-45/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/beast-45/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/beast-45/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/beast-45/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/beast-45/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/beast-45/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/beast-45/Leetcode/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/beast-45/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/beast-45/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/beast-45/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/beast-45/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -1496,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/beast-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/beast-45/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/beast-45/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/beast-45/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/beast-45/Leetcode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/beast-45/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
@@ -1638,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/beast-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/beast-45/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/beast-45/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/beast-45/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/beast-45/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beast-45/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
