@@ -1,50 +1,44 @@
-class Solution {
-public:
-    int find(int x , vector<int> &parent){
-        if(x == parent[x]){
-            return x;
-        }
-        return parent[x] = find(parent[x] , parent);
-    }
-    void unionf(int x , int y , vector<int> &parent , vector<int> &rank){
-        int xp = find(x,parent);
-        int yp = find(y,parent);
-        if(xp == yp){
-            return;
-        }
-
-        if(rank[xp] > rank[yp]){
-            parent[yp] = xp;
-        }
-        else if(rank[xp] < rank[yp]){
-            parent[xp] = yp;
-        }
-        else{
-            parent[xp] = yp;
-            rank[yp] += 1;
-        }
-    }
-    bool equationsPossible(vector<string>& equations) {
-        vector<int> rank(26,0);
-        vector<int> parent(26);
-        for(int i=0 ; i<26 ; i++){
+class DSU{
+    public:
+    vector<int> parent,rank;
+    DSU(int n){
+        rank.resize(n,0);
+        parent.resize(n);
+        for(int i=0 ; i<n ; i++){
             parent[i] = i;
         }
-        for(string &equation : equations){
-            if(equation[1] == '='){
-                unionf(equation[0]-'a' , equation[3]-'a' , parent , rank);
+    }
+    int find(int x){
+        if(parent[x] == x) return x;
+        return parent[x] = find(parent[x]);
+    }
+    bool unionf(int x , int y){
+        int xp = find(x);
+        int yp = find(y);
+        if(xp == yp) return false;
+        if(rank[xp] > rank[yp]) parent[yp] = xp;
+        else if(rank[xp] < rank[yp]) parent[xp] = yp;
+        else{
+            parent[xp] = yp;
+            rank[yp]++;
+        }
+        return true;
+    }
+};
+class Solution {
+public:
+    bool equationsPossible(vector<string>& equations) {
+        DSU dsu(26);
+        for(auto &eq : equations){
+            if(eq[1] == '='){
+                dsu.unionf(eq[0]-'a',eq[3]-'a');
             }
         }
-        for(string &equation : equations){
-            if(equation[1] == '!'){
-                char x = equation[0] , y = equation[3];
-                int x_parent = find(x-'a',parent);
-                int y_parent = find(y-'a',parent);
-                if(x_parent == y_parent){
-                    return false;
-                }
+        for(auto &eq : equations){
+            if(eq[1] == '!'){
+                if(dsu.find(eq[0]-'a') == dsu.find(eq[3]-'a')) return false;
             }
         }
-        return true; 
+        return true;
     }
 };
