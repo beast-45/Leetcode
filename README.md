@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/beast-45/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/beast-45/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/beast-45/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/beast-45/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/beast-45/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/beast-45/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/beast-45/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/beast-45/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/beast-45/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/beast-45/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/beast-45/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2556-convert-the-temperature](https://github.com/beast-45/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/beast-45/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/beast-45/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/beast-45/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/beast-45/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/beast-45/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/beast-45/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2300-construct-string-with-repeat-limit](https://github.com/beast-45/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/beast-45/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/beast-45/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/beast-45/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/beast-45/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/beast-45/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/beast-45/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/beast-45/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/beast-45/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/beast-45/Leetcode/tree/master/2411-spiral-matrix-iv) |
