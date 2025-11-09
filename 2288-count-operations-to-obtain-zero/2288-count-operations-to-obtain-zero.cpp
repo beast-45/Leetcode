@@ -8,9 +8,7 @@ public:
                 ops += 1;
                 if (num1 == 0) return ops;
             } else {
-                num2 -= num1;
-                ops += 1;
-                if (num2 == 0) return ops;
+                swap(num1,num2);
             }
         }
         return ops;
