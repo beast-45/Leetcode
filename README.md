@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/beast-45/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/beast-45/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/beast-45/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/beast-45/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0491-non-decreasing-subsequences](https://github.com/beast-45/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/beast-45/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/beast-45/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/beast-45/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/beast-45/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/beast-45/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/beast-45/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/beast-45/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/beast-45/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/beast-45/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -1142,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/beast-45/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/beast-45/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/beast-45/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/beast-45/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/beast-45/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/beast-45/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/beast-45/Leetcode/tree/master/0518-coin-change-ii) |
