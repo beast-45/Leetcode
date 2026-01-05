@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/beast-45/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/beast-45/Leetcode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/beast-45/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/beast-45/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/beast-45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/beast-45/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1975-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/beast-45/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/beast-45/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1972-rotating-the-box](https://github.com/beast-45/Leetcode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/beast-45/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beast-45/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/beast-45/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
