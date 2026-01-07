@@ -1547,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/beast-45/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/beast-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1611,6 +1612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/beast-45/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/beast-45/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/beast-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1669,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/beast-45/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/beast-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
