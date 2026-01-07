@@ -16,17 +16,7 @@ public:
     long maxP = 0;
     int totalSum(TreeNode* root){
         if(!root) return 0;
-        int sum = 0;
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* temp = q.front();
-            q.pop();
-            sum += temp->val;
-            if(temp->left) q.push(temp->left);
-            if(temp->right) q.push(temp->right);
-        }
-        return sum;
+        return root->val + totalSum(root->left) + totalSum(root->right);
     }
     int find(TreeNode* root){
         if(!root) return 0;
