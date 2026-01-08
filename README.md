@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/beast-45/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1447-jump-game-iv](https://github.com/beast-45/Leetcode/tree/master/1447-jump-game-iv) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/beast-45/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/beast-45/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/beast-45/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/beast-45/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/beast-45/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/beast-45/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/beast-45/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/beast-45/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1517-restore-the-array](https://github.com/beast-45/Leetcode/tree/master/1517-restore-the-array) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/beast-45/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
