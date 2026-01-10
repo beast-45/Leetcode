@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/beast-45/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/beast-45/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/beast-45/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/beast-45/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1129-longest-string-chain](https://github.com/beast-45/Leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/beast-45/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/beast-45/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -1551,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/beast-45/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/beast-45/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/beast-45/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1617,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/beast-45/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/beast-45/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/beast-45/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/beast-45/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1677,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beast-45/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/beast-45/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/beast-45/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/beast-45/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1768,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/beast-45/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/beast-45/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/beast-45/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/beast-45/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/beast-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/beast-45/Leetcode/tree/master/1380-number-of-closed-islands) |
