@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/beast-45/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/beast-45/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/beast-45/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3453-separate-squares-i](https://github.com/beast-45/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/beast-45/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/beast-45/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/beast-45/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1423,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/beast-45/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/beast-45/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/beast-45/Leetcode/tree/master/3427-special-array-ii) |
+| [3453-separate-squares-i](https://github.com/beast-45/Leetcode/tree/master/3453-separate-squares-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/beast-45/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/beast-45/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Brainteaser
