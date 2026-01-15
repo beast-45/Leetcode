@@ -2017,4 +2017,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/beast-45/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/beast-45/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
