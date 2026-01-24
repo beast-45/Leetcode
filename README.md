@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/beast-45/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/beast-45/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/beast-45/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/beast-45/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/beast-45/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/beast-45/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/beast-45/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/beast-45/Leetcode/tree/master/1972-rotating-the-box) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/beast-45/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/beast-45/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/beast-45/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/beast-45/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/beast-45/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/beast-45/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/beast-45/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/beast-45/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/beast-45/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
