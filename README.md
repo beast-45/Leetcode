@@ -2050,9 +2050,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/beast-45/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/beast-45/Leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/beast-45/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/beast-45/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
