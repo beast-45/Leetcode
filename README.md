@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/beast-45/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/beast-45/Leetcode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/beast-45/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/beast-45/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/beast-45/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/beast-45/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/beast-45/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/beast-45/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/beast-45/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/beast-45/Leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/beast-45/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/beast-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/beast-45/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1980-find-unique-binary-string](https://github.com/beast-45/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/beast-45/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/beast-45/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/beast-45/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1758,6 +1761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/beast-45/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beast-45/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/beast-45/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/beast-45/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/beast-45/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/beast-45/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/beast-45/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
