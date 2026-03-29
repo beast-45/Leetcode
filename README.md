@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/beast-45/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/beast-45/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/beast-45/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/beast-45/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/beast-45/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/beast-45/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1442,6 +1443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/beast-45/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2530-minimize-maximum-of-array](https://github.com/beast-45/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/beast-45/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2594-minimum-time-to-repair-cars](https://github.com/beast-45/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/beast-45/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/beast-45/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/beast-45/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
