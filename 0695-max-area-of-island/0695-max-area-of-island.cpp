@@ -8,8 +8,7 @@ public:
         int area = 1;
         grid[i][j] = 0;
         for(auto &[di,dj] : directions){
-            int ni = i + di;
-            int nj = j + dj;
+            int ni = i + di , nj = j + dj;
             area += dfs(ni,nj,m,n,grid);
         }
         return area;
