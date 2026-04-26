@@ -1,13 +1,13 @@
 class Trie {
 public:
-    struct trieNode{
+    struct TrieNode{
         bool wordEnd;
         string word;
-        trieNode* child[26];
+        TrieNode* child[26];
     };
-    trieNode* root;
-    trieNode* makeTrieNode(){
-        trieNode* nNode = new trieNode();
+
+    TrieNode* makeTrieNode(){
+        TrieNode* nNode = new TrieNode();
         nNode->wordEnd = false;
         nNode->word = "";
         for(int i=0 ; i<26 ; i++){
@@ -15,14 +15,17 @@ public:
         }
         return nNode;
     }
+
+    TrieNode* root;
+
     Trie() {
         root = makeTrieNode();
     }
     
     void insert(string word) {
-        trieNode* crawler = root;
+        TrieNode* crawler = root;
         for(char &ch : word){
-            if(crawler->child[ch-'a'] == nullptr){
+            if(!crawler->child[ch-'a']){
                 crawler->child[ch-'a'] = makeTrieNode();
             }
             crawler = crawler->child[ch-'a'];
@@ -32,27 +35,23 @@ public:
     }
     
     bool search(string word) {
-        trieNode* crawler = root;
+        TrieNode* crawler = root;
         for(char &ch : word){
             if(!crawler->child[ch-'a']) return false;
-            else crawler = crawler->child[ch-'a'];
+            crawler = crawler->child[ch-'a'];
         }
-        if(crawler->wordEnd && crawler->word == word) return true;
-        return false;
+        return crawler->wordEnd == true && crawler->word == word ? true : false;
     }
     
     bool startsWith(string prefix) {
-        trieNode* crawler = root;
+        TrieNode* crawler = root;
         int i = 0;
         for(char &ch : prefix){
             if(!crawler->child[ch-'a']) return false;
-            else{
-                crawler = crawler->child[ch-'a'];
-                i++;
-            }
+            crawler = crawler->child[ch-'a'];
+            i++;
         }
-        if(i == prefix.length()) return true;
-        return false;
+        return i == prefix.length() ? true : false;
     }
 };
 
