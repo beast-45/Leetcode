@@ -798,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/beast-45/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1447-jump-game-iv](https://github.com/beast-45/Leetcode/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/beast-45/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/beast-45/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1613,6 +1614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/beast-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -1686,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/beast-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/beast-45/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/beast-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -1841,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/beast-45/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/beast-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/beast-45/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1447-jump-game-iv](https://github.com/beast-45/Leetcode/tree/master/1447-jump-game-iv) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/beast-45/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/beast-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
