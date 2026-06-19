@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/beast-45/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/beast-45/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/beast-45/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/beast-45/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/beast-45/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/beast-45/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/beast-45/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/beast-45/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/beast-45/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/beast-45/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/beast-45/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/beast-45/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
