@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/beast-45/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/beast-45/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/beast-45/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1306-jump-game-iii](https://github.com/beast-45/Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/beast-45/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/beast-45/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/beast-45/Leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -1688,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/beast-45/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/beast-45/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1306-jump-game-iii](https://github.com/beast-45/Leetcode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/beast-45/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/beast-45/Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -1846,6 +1848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/beast-45/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/beast-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/beast-45/Leetcode/tree/master/1306-jump-game-iii) |
 | [1380-number-of-closed-islands](https://github.com/beast-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/beast-45/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/beast-45/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
