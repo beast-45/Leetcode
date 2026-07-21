@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/beast-45/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/beast-45/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/beast-45/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/beast-45/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/beast-45/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/beast-45/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/beast-45/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/beast-45/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/beast-45/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/beast-45/Leetcode/tree/master/3221-find-the-peaks) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/beast-45/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/beast-45/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
