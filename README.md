@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/beast-45/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/beast-45/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/beast-45/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beast-45/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3226-minimum-number-game](https://github.com/beast-45/Leetcode/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/beast-45/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/beast-45/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/beast-45/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2886-faulty-keyboard](https://github.com/beast-45/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/beast-45/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beast-45/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/beast-45/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/beast-45/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/beast-45/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/beast-45/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beast-45/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/beast-45/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/beast-45/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/beast-45/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -911,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/beast-45/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/beast-45/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/beast-45/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beast-45/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/beast-45/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/beast-45/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/beast-45/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -1051,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/beast-45/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/beast-45/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/beast-45/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beast-45/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/beast-45/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/beast-45/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/beast-45/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
