@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/beast-45/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/beast-45/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/beast-45/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/beast-45/Leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/beast-45/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/beast-45/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/beast-45/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/beast-45/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/beast-45/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/beast-45/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/beast-45/Leetcode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/beast-45/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/beast-45/Leetcode/tree/master/0670-maximum-swap) |
 | [0805-escape-the-ghosts](https://github.com/beast-45/Leetcode/tree/master/0805-escape-the-ghosts) |
@@ -1257,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/beast-45/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/beast-45/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/beast-45/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/beast-45/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/beast-45/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/beast-45/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/beast-45/Leetcode/tree/master/0518-coin-change-ii) |
@@ -1587,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/beast-45/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/beast-45/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/beast-45/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/beast-45/Leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/beast-45/Leetcode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beast-45/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/beast-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -2105,6 +2109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/beast-45/Leetcode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/beast-45/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 |  |
