@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/beast-45/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/beast-45/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/beast-45/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/beast-45/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/beast-45/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/beast-45/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/beast-45/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/beast-45/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/beast-45/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/beast-45/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
