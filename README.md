@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/beast-45/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/beast-45/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2029-stone-game-ix](https://github.com/beast-45/Leetcode/tree/master/2029-stone-game-ix) |
 | [2035-count-sub-islands](https://github.com/beast-45/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beast-45/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/beast-45/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/beast-45/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/beast-45/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/beast-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2029-stone-game-ix](https://github.com/beast-45/Leetcode/tree/master/2029-stone-game-ix) |
 | [2155-find-missing-observations](https://github.com/beast-45/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/beast-45/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/beast-45/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/beast-45/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/beast-45/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/beast-45/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/beast-45/Leetcode/tree/master/2029-stone-game-ix) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/beast-45/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/beast-45/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/beast-45/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/beast-45/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/beast-45/Leetcode/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/beast-45/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/beast-45/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/beast-45/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -2130,6 +2134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/beast-45/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/beast-45/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/beast-45/Leetcode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/beast-45/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 |  |
@@ -2149,8 +2154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/beast-45/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/beast-45/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/beast-45/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/beast-45/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/beast-45/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
