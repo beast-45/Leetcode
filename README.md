@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/beast-45/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/beast-45/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/beast-45/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/beast-45/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/beast-45/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/beast-45/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/beast-45/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/beast-45/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/beast-45/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/beast-45/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/beast-45/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/beast-45/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/beast-45/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/beast-45/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/beast-45/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/beast-45/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/beast-45/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3291-find-if-array-can-be-sorted](https://github.com/beast-45/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/beast-45/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/beast-45/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1524,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/beast-45/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/beast-45/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/beast-45/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/beast-45/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/beast-45/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/beast-45/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/beast-45/Leetcode/tree/master/3427-special-array-ii) |
@@ -1544,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/beast-45/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/beast-45/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/beast-45/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/beast-45/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/beast-45/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/beast-45/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/beast-45/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -2116,6 +2121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/beast-45/Leetcode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/beast-45/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/beast-45/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Topological Sort
 |  |
