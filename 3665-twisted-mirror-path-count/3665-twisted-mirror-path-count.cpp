@@ -8,9 +8,9 @@ public:
         // 0 -> left , 1 -> up
         if(grid[i][j] == 1){
             if(prev == 0){
-                return solve(i+1,j,m,n,1,grid,dp);
+                return dp[i][j][prev] = solve(i+1,j,m,n,1,grid,dp);
             }else{
-                return solve(i,j+1,m,n,0,grid,dp);
+                return dp[i][j][prev] = solve(i,j+1,m,n,0,grid,dp);
             }
         }
         int totalPaths = 0;
