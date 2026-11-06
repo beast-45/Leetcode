@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/beast-45/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/beast-45/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/beast-45/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2747-count-zero-request-servers](https://github.com/beast-45/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2755-extra-characters-in-a-string](https://github.com/beast-45/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/beast-45/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/beast-45/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/beast-45/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/beast-45/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/beast-45/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/beast-45/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/beast-45/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/beast-45/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/beast-45/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/beast-45/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/beast-45/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/beast-45/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2755-extra-characters-in-a-string](https://github.com/beast-45/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/beast-45/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1476,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/beast-45/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/beast-45/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/beast-45/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/beast-45/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/beast-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/beast-45/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/beast-45/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
