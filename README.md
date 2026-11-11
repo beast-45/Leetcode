@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/beast-45/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/beast-45/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/beast-45/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/beast-45/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/beast-45/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/beast-45/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
@@ -1117,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/beast-45/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/beast-45/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/beast-45/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/beast-45/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
